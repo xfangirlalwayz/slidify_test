@@ -1,25 +1,32 @@
 event_date,event_state,event_city,event_name,event_location_name,event_address
-2017-01-11,CT,Greenwich,Greenwich Academy(Webinar),Greenwich Academy,200 N Maple Ave
+2017-01-08,GA,Brookhaven,Marist College Admissions Leaders Forum,Marist School,3790 Ashford Dunwoody Rd NE
+2017-01-11,GA,Atlanta,Atlanta Girls School College Panel,Atlanta Girls School,3254 Northside Pkwy NW
 2017-01-12,GA,Bogart,MOWR Parent Information Night,North Oconee High School,1081 Rocky Branch Rd
-2017-01-12,NJ,Basking Ridge,Ridge High School,Ridge High School,268 S Finley Ave
+2017-01-15,GA,Athens,Colleges in Your Backyard,University of Georgia,Tate Student Center - Grand Hall\45 Baxter St.
 2017-01-17,CA,Culver City,Culver City High School Case Study Panel & Mini College Fair,Culver City High School,4401 Elenda St
-2017-01-17,FL,Orlando,Boone High School Webinar,William R Boone High School,1000 E Kaley St
 2017-01-19,CA,Calabasas,Calabasas High School Case Study & Mini College Fair,Calabasas High School,22855 Mulholland Hwy
 2017-01-25,GA,Atlanta,REACH Day College & Career Fair,Georgia Railroad Freight Depot,65 Martin Luther King Jr Dr SE
 2017-01-25,TX,Frisco,Frisco Independent School District College Fair,Reedy High School,3003 Stonebrook Pkwy
+2017-01-26,GA,Athens,Cedar Shoals High School MOWR Parent/Student meeting,Cedar Shoals High School,1300 Cedar Shoals Dr
+2017-01-26,GA,Athens,Clarke Central High School AP & MOWR Night,Clarke Central High School,350 S Milledge Ave
+2017-01-27,MD,Bethesda,"""College Day on the Pike"" College Fair @ Stone Ridge School of the Sacred Heart",Stone Ridge Sch Sacred Heart,9101 Rockville Pike
+2017-01-27,MD,Kensington,"""College Day on the Pike"" College Fair @ Academy of the Holy Cross",Academy Of The Holy Cross,4920 Strathmore Ave
 2017-01-28,CA,Los Angeles,Hollywood High School Spring Semester College Fair,Hollywood High School,1521 N Highland Ave
 2017-01-29,SC,Greenville,Christ Church Episcopal School Case Studies Program & Mini College Fair,Christ Church Episcopal School,567 Wenwood Rd
+2017-01-30,GA,Atlanta,The Westminster Schools Deans Program,The Westminster Schools,1424 W Paces Ferry Rd NW
 2017-02-01,TX,Lewisville,Lewisville High School College & Career Day Fair,Lewisville High School,1098 W Main St
+2017-02-02,GA,Watkinsville,Oconee County High School MOWR Night,Oconee County High School,2721 Hog Mountain Rd
 2017-02-02,TX,Arlington,Oakridge Fair,Oakridge School,5900 W Pioneer Pkwy
 2017-02-02,TX,Fort Worth,All Saints Fair,All Saints Episcopal School,9700 Saints Cir
+2017-02-02,TX,Fort Worth,Fort Worth Country Day School Fair,Fort Worth Country Day School,4200 Country Day Ln
 2017-02-02,TX,Fort Worth,Trinity Valley School Fair,Trinity Valley School,7500 Dutch Branch Rd
-2017-02-15,CA,West Hills,de Toledo High School College Explorations Night,de Toledo High School,22622 Vanowen St
-2017-02-22,FL,Ponte Vedra,Ponte Vedra High School College Fair Plus!,Ponte Vedra High School,460 Davis Park Rd
+2017-02-21,GA,Athens,Athens Academy College Panel,Athens Academy,PO Box 6548
 2017-02-23,FL,Jacksonville,Jacksonville Preparatory Schools College Fair,"University of North Florida, University Center",12000 Alumni Dr
-2017-02-24,OH,Mentor,Lake Catholic High School - Webinar,Lake Catholic High School,6733 Reynolds Rd
 2017-02-25,CA,Torrance,Torrance Unified School District College Fair,South High School,4801 Pacific Coast Hwy
 2017-02-25,FL,Tampa,NACAC - Tampa National College Fair,Florida State Fairgrounds Expo Hall,4800 N US Highway 301
 2017-02-26,FL,Miami,NACAC - Miami National College Fair,DoubleTree by Hilton Miami Airport Convention Center,711 NW 72nd Ave
+2017-02-27,GA,Savannah,Savannah Country Day School,Savannah Country Day School,824 Stillwood Dr
+2017-03-01,TX,Arlington,Oakridge School Presentation on Selective Public Schools,Oakridge School,5900 W Pioneer Pkwy
 2017-03-03,GA,Social Circle,Social Circle High School College & Career Fair,Social Circle High,154 Alcova Dr
 2017-03-09,CA,Los Angeles,Los Angeles High School Fair,Los Angeles Senior High School,4650 W Olympic Blvd
 2017-03-11,CA,La Verne,Lutheran High School College Fair,Lutheran High School,3960 Fruit St
@@ -31,31 +38,41 @@ event_date,event_state,event_city,event_name,event_location_name,event_address
 2017-03-14,NC,Raleigh,NACAC - Raleigh National College Fair,Raleigh Convention Center,500 S Salisbury St
 2017-03-14,NC,Raleigh,Sanderson High School Visit,Sanderson High School,5500 Dixon Dr
 2017-03-14,NC,Raleigh,St. David's School,Saint David's School,3400 White Oak Rd
+2017-03-15,GA,Atlanta,KIPP Atlanta HS Mini College Fair,Kipp Atlanta Collegiate,98 Anderson Ave NW
+2017-03-16,GA,Columbus,Columbus High School College Fair,Columbus High School,1700 Cherokee Ave
 2017-03-16,GA,Cumming,Keys to the Dawg House @ Forsyth Central High School,Forsyth Central High School,520 Tribble Gap Rd
 2017-03-18,GA,Atlanta,Latino College & STEM Fair,Georgia Tech Student Center,350 Ferst Dr. NW
 2017-03-19,GA,Atlanta,NACAC - Atlanta National College Fair,Georgia International Convention Center,2000 Convention Center Concourse
 2017-03-20,GA,Atlanta,College Fair at Charles R. Drew Charter School,Charles R. Drew Charter School,300 E Lake Blvd SE
+2017-03-20,GA,Fairburn,Creekside High School College Fair,Creekside High School,7405 Herndon Rd
 2017-03-20,GA,Marietta,QUEST East College Fair @ Kell High School,Carlton J Kell High School,4770 Lee Waters Rd
 2017-03-20,MD,Olney,Our Lady of Good Counsel High School College Fair,Our Lady Of Good Counsel HS,17301 Old Vic Blvd
-2017-03-21,GA,Kennesaw,QUEST West College Fair,Kennesaw Mountain High School,1898 Kennesaw Due West Rd NW
-2017-03-22,GA,Milton,PROBE College Fair at Cambridge High School,Cambridge High School,2845 Bethany Bnd
+2017-03-21,CA,Newport Beach,Corona del Mar High School RACC College Night,Corona Del Mar High School,2101 Eastbluff Dr
+2017-03-21,GA,Kennesaw,QUEST West College Fair @ Kennesaw Mountain High School,Kennesaw Mountain High School,1898 Kennesaw Due West Rd NW
+2017-03-23,CA,Santa Ana,Foothill High School RACC College Night,Foothill High School,19251 Dodge Ave
+2017-03-25,GA,Atlanta,Atlanta Invitational Case Studies and College Fair,Holy Innocents Episcopal Sch,805 Mount Vernon Hwy
 2017-03-27,CA,Newport Beach,Newport Harbor High School RACC Mini Fair,Newport Harbor High School,600 Irvine Ave
-2017-03-27,NY,Brooklyn,Xaverian Annual College Fair,Xaverian High School - Anthony Leondis Gymnasium,7100 Shore Rd
-2017-03-29,TX,Plano,John Paul II,John Paul Ii High School,900 Coit Rd
+2017-03-27,CA,San Juan Capo,St. Margaret's Episcopal School Visit,Saint Margarets Episcopal Sch,31641 La Novia Ave
+2017-03-29,TX,Dallas,Hillcrest High School,Hillcrest High School,9924 Hillcrest Rd
+2017-03-29,TX,Plano,John Paul II High School Visit,John Paul Ii High School,900 Coit Rd
 2017-03-29,VA,Fairfax,Northern Virginia Regional College Fair,George Mason University,4400 University Dr Stop 3A4
+2017-03-30,GA,Stone Mtn,Stephenson High School College Fair,Stephenson High School,701 Stephenson Rd
+2017-03-30,GA,Stone Mtn,Stephenson High School Pizza Yield Luncheon,Stephenson High School,701 Stephenson Rd
 2017-03-30,TN,Chattanooga,Coast-to-Coast College Fair,Chattanooga Convention Center,1150 Carter Dr
 2017-03-30,TX,Mesquite,Dallas Christian School Mini-Fair,Dallas Christian High School,1515 Republic Pkwy
 2017-04-01,TN,Nashville,Nashville Case Studies and Mini College Fair,Harpeth Hall School,3801 Hobbs Rd
 2017-04-01,TX,Dallas,College Previews College Fair,Hockaday School,11600 Welch Rd
-2017-04-01,VA,Woodbridge,6th Annual IB Mid-Atlantic College Fair,Gar-Field Senior High School,14000 Smoketown Rd
-2017-04-04,DC,Chevy Chase,St. John's College High School College Fair,St. John's College High School,2607 Military Rd NW
+2017-04-01,VA,Woodbridge,IB Mid-Atlantic College Fair,Gar-Field Senior High School,14000 Smoketown Rd
+2017-04-04,DC,Washington,St. John's College High School College Fair,Saint Johns College HS,2607 Military Rd NW
 2017-04-04,TX,Addison,Dallas Darn Private Swing - Trinity Christian Academy,Trinity Christian Academy,17001 Addison Rd
 2017-04-04,TX,Dallas,Dallas Darn Private Swing - Bishop Lynch,Bishop Lynch High School,9750 Ferguson Rd
 2017-04-04,TX,Dallas,Dallas Darn Private Swing - Ursuline Academy,Ursuline Academy,4900 Walnut Hill Ln
-2017-04-05,CA,Los Angeles,Woodrow Wilson High School College Fair,Woodrow Wilson High School,4500 Multnomah St
 2017-04-05,MD,Gaithersburg,NACAC - Montgomery County National College Fair,Montgomery County Agricultural Center,501 Perry Pkwy
 2017-04-05,TX,Hurst,Texas IB Schools College Fair,Hurst Conference Center,1601 Campus Dr
-2017-04-07,CA,Anaheim,California-Nevada-Hawaii (CNH) Key Club District College EXPO,Anaheim Marriott Hotel,700 W Convention Way
+2017-04-09,GA,Athens,Athens Admitted Student Reception,Richard B. Russell Special Collections Library - Rm. 285,300 S Hull St
+2017-04-11,GA,Atlanta,Atlanta Admitted Student Reception,Loudermilk Conference Center,40 Courtland St NE
+2017-04-12,CA,Long Beach,Long Beach Polytechnic HS RACC Pres & Mini Fair,Long Beach Polytechnic HS,1600 Atlantic Ave
+2017-04-12,GA,Lithonia,Arabia Mountain High School Pizza Yield Luncheon,Arabia Mountain High School,6610 Browns Mill Rd
 2017-04-12,TX,Dallas,Highland Park College Kickoff 2017,Highland Park High School,4220 Emerson Ave
 2017-04-13,CA,La Canada,La Canada HS RACC Case Study,La Canada High School,4463 Oak Grove Dr
 2017-04-13,TX,Houston,NACAC - Houston National College Fair,NRG Park,1 Nrg Park
@@ -69,78 +86,164 @@ event_date,event_state,event_city,event_name,event_location_name,event_address
 2017-04-19,TX,Austin,NACAC - Austin National College Fair,Palmer Events Center,900 Barton Springs Rd
 2017-04-19,TX,Austin,Westwood High School Visit,Westwood High School,12400 Mellow Meadow Dr
 2017-04-20,CA,Irvine,SEC Spring College Tour,Hilton Irvine/Orange County Airport,18800 Macarthur Blvd
-2017-04-20,GA,Roswell,Blessed Trinity Catholic High School College Fair,Blessed Trinity Catholic HS,11320 Woodstock Rd
-2017-04-20,GA,Roswell,Blessed Trinity College Fair,Blessed Trinity Catholic HS,11320 Woodstock Rd
 2017-04-20,TX,Austin,Lake Travis High School Visit,Lake Travis High School,3324 Ranch Road 620 S
 2017-04-23,CA,Anaheim,NACAC - Orange County National College Fair,Anaheim Convention Center,800 W Katella Ave
 2017-04-24,CA,Del Mar,San Dieguito Union High School District College Night & Fair,Del Mar Fairgrounds - O'Brien Hall,2260 Jimmy Durante Blvd
-2017-04-24,CA,Newport Beach,Corona del Mar High School Fair,Corona Del Mar High School,2101 Eastbluff Dr
 2017-04-24,CA,Santa Ana,Mater Dei High School Visit,Mater Dei High School,1202 W Edinger Ave
 2017-04-24,GA,Atlanta,Georgia Tech English Language Institute College Fair,O'Keefe Building,151 6th St NE
 2017-04-25,CA,San Diego,NACAC - San Diego National College Fair,San Diego Convention Center,111 W Harbor Dr
 2017-04-26,MD,N Bethesda,Washington Area Independent School College Fair,Georgetown Preparatory School,10900 Rockville Pike
 2017-04-26,NJ,Secaucus,NACAC - New Jersey National College Fair,Meadowlands Exposition Center at Harmon Meadows,355 Plaza Dr
-2017-04-26,NY,Bronx,The Bronx High School of Science College Fair,Bronx High School Of Science,75 W 205th St
 2017-04-26,TN,Memphis,NACAC - Memphis National College Fair,Memphis Cook Convention Center,255 N Main St
+2017-04-26,TX,Colleyville,Covenant Christian Academy,Covenant Christian Academy,901 Cheek Sparger Rd
+2017-04-26,TX,Grapevine,Grapevine Faith Christian School High School Visit,Faith Christian School,729 E Dallas Rd
+2017-04-26,TX,Haltom City,Bethesda Christian School Visit,Bethesda Christian School,4700 N Beach St
 2017-04-27,CA,Burlingame,Burlingame High School,Burlingame High School,1 Mangini Way
 2017-04-27,CA,Los Gatos,Los Gatos HS Visit,Los Gatos High School,20 High School Ct
 2017-04-27,CA,Redwood City,Sequoia HS Visit,Sequoia High School,1201 Brewster Ave
 2017-04-27,CA,San Mateo,Campanile Visit,Campanile College Counseling,1777 Borel Pl Ste 205
-2017-04-27,RI,Providence,Providence Independent School College Fair,Wheeler School,216 Hope St
 2017-04-27,TX,Dallas,Highland Park High School Visit - Spring 17,Highland Park High School,4220 Emerson Ave
 2017-04-27,VA,Richmond,Richmond Area Independent Schools College Fair,Collegiate School,103 N Mooreland Rd
 2017-04-28,CA,San Jose,Leland HS Visit,Leland High School,6677 Camden Ave
+2017-04-28,NJ,Blairstown,Blair Academy,Blair Academy,Director Of College Counseling\2 Park St
 2017-04-28,NJ,Chatham,Chatham High School,Chatham High School,255 Lafayette Ave
 2017-04-28,NJ,Morristown,Morristown High School,Morristown High School,50 Early St
 2017-04-28,NJ,Westfield,Westfield High School,Westfield High School,550 Dorian Rd
 2017-04-28,VA,Newport News,Tidewater Independents College Fair,Hampton Roads Academy,739 Academy Ln
 2017-04-29,CA,Daly City,NACAC - San Francisco National College Fair,Cow Palace Arena,2600 Geneva Ave
-2017-04-30,TN,Nashville,NACAC - Nashville National College Fair,Nashville Convention Center,601 Commerce St
-2017-05-01,GA,Kennesaw,Keys to the Dawg House at Mount Paran Christian School,Mount Paran Christian School,1275 Stanley Rd NW
+2017-04-29,NC,Charlotte,Charlotte Area Case Studies Program,Charlotte Country Day School,1440 Carmel Rd
+2017-04-30,NC,Davidson,Lake Norman Area Case Studies Program,Davidson Day School,750 Jetton St
+2017-04-30,TN,Nashville,NACAC - Nashville National College Fair,Music City Center - Exhibit Hall D,201 5th Ave S
+2017-05-02,CA,Santa Monica,New Roads School RACC Case Study,New Roads School,3131 Olympic Blvd
+2017-05-04,CA,Los Angeles,PUC CALS Early College HS College Night,Puc California Acdmy Lib Study,Early College High School\7350 N Figueroa St
 2017-05-04,TX,Flower Mound,Flower Mound High School College Forum,Flower Mound High School,3411 Peters Colony Rd
+2017-05-05,GA,Stone Mtn,HS Visit Dekalb Early College,Dekalb Early College Academy,1701 Mountain Industrial Blvd
+2017-05-05,TX,Allen,Allen High School Signing Day For Foundation Fellow,Allen High School,300 Rivercrest Blvd
+2017-05-06,CA,Corona,Santiago HS Student-Parent Boot Camp,Santiago High School,1395 Foothill Pkwy
 2017-05-07,MA,Boston,NACAC - Boston National College Fair,Boston Convention & Exhibition Center,415 Summer St
 2017-05-08,MA,Brockton,Brockton High School College Fair,Brockton High School,470 Forest Ave
 2017-05-10,MD,Germantown,College Fair with Congressman John K. Delaney (MD-6),Northwest High School,13501 Richter Farm Rd
 2017-05-11,TX,Plano,Plano West HS Visit,Plano West Senior High School,5601 W Parker Rd
-2017-05-16,CA,La Canada Flt,St. Francis High School Case Study,St Francis High School,200 Foothill Blvd
+2017-05-15,TX,Plano,Plano Senior High School Visit Zero Hour,Plano Senior High School,2200 Independence Pkwy
+2017-05-16,CA,La Canada,St. Francis High School Case Study,Saint Francis High School,200 Foothill Blvd
 2017-05-16,GA,Lawrenceville,"Gwinnett School of Mathematics, Science and Technology College Fair","Gwinnett School of Mathematics, Science, and Technology",970 Mcelvaney Ln
 2017-05-18,CA,Los Angeles,Thomas Jefferson High School RACC Pres & Mini Fair,Thomas Jefferson High School,1319 E 41st St
-2017-05-18,CA,Manhattan Bch,Mira Costa HS RACC Case Study,Mira Costa High School,1401 Artesia Blvd
-2017-05-23,PA,Bryn Mawr,Philadelphia Area Independent Schools College Fair,Shipley School The,814 Yarrow St
 2017-05-24,CA,Irvine,Woodbridge HS RACC OOS Night,Woodbridge High School,2 Meadowbrook
-2017-05-24,PA,Ft Washington,Philadelphia Area Independent Schools College Fair,Germantown Academy,340 Morris Rd
+2017-05-31,GA,Athens,Move On When Ready Information Session,University Of Georgia - Terrell Hall Presentation Hall,210 S Jackson St
+2017-06-05,GA,Athens,Grady College of Journalism Summer Camp,Grady College of Journalism & Mass Communication,120 Hooper St
+2017-06-08,CA,La Canada,St. Francis HS College Boot Camp,Saint Francis High School,200 Foothill Blvd
+2017-06-08,GA,Athens,Animal Science in Action,Animal and Dairy Science Department,"Edgar L. Rhodes Center, Room 101"
 2017-06-12,CA,Visalia,Visalia WACAC College Fair,Visalia Convention Center,303 E Acequia Ave
-2017-06-14,TX,Fort Worth,DARN - College Search Series,Nolan Catholic High School,4501 Bridge St
+2017-06-14,GA,Athens,Presentation for Leadership Without Limits,J.W. Fanning Institute for Leadership Development,1240 S Lumpkin St
+2017-06-14,TX,Fort Worth,DARN - College Search Series Nolan Catholic,Nolan Catholic High School,4501 Bridge St
+2017-06-15,GA,Athens,Move On When Ready Information Session,University Of Georgia - Terrell Hall Presentation Hall,210 S Jackson St
+2017-06-15,GA,Athens,Terry Business Academy Admissions Information Session,Terry College of Business at the University of Georgia,600 S. Lumpkin Street\214 Correll Hall
+2017-06-16,GA,Atlanta,2017 Governor's Valedictorian Reception,Governor's Mansion,391 W Paces Ferry Rd NW
 2017-06-20,TX,Mansfield,DARN College Search Series- Mansfield,Mansfield High School,3001 E Broad St
+2017-06-21,GA,Athens,Accounting Residency Program Admissions Information Session,University of Georgia Special Collections Libraries,300 South Hull Street\Auditorium
+2017-06-21,GA,Athens,College Bound,J.W. Fanning Institute for Leadership Development,1240 S Lumpkin St
+2017-06-21,GA,Martinez,"Peach State Tour - Martinez, GA EXAMPLE",Augusta Preparatory Day School,285 Flowing Wells Rd
 2017-06-21,TX,Flower Mound,DARN - College Search Series - Flower Mound,Flower Mound High School,3411 Peters Colony Rd
+2017-06-23,GA,Athens,Discover Georgia (Test Event),University of Georgia,Terrell Hall\210 S Jackson St
 2017-06-27,TX,Irving,DARN - College Search Series - Upward North,Uplift North Hills Preparatory,606 E Royal Ln
-2017-06-28,GA,Atlanta,Connecting College & Careers to APS Core Course Fair (SMSEA),Benjamin E Mays High School,3450 Benjamin E Mays Drive Southwest
+2017-06-28,GA,Atlanta,Connecting College & Careers to APS Core Course Fair (SMSEA),Benjamin E Mays High School,3450 Benjamin E Mays Dr SW
 2017-06-28,TX,Plano,DARN - College Search Series - Prestonwood Christian,Prestonwood Christian Academy,6801 W Park Blvd
+2017-06-29,CA,Tustin,Tustin HS Out-of-State Presentation,Tustin High School,1171 El Camino Real
+2017-07-10,TX,Dallas,DARN - College Search Series - Bishop Lynch,Bishop Lynch High School,9750 Ferguson Rd
+2017-07-13,GA,Athens,Young Scholars Program's Pre-collegiate Research Conference (College of Agricultural & Environmental Sciences),UGA Miller Learning Center Bldg 0081,48 Baxter St
+2017-07-19,GA,Athens,Leadership Sin Limites,J.W. Fanning Institute for Leadership Development,1240 S Lumpkin St
+2017-07-22,GA,Athens,Discover Georgia,University of Georgia,102 Tate Student Center
 2017-08-01,TX,Fort Worth,DARN - College Search Series - Fossil Ridge,Fossil Ridge High School,4101 Thompson Rd
+2017-08-12,GA,Atlanta,Grady High School College Kickoff,Henry W Grady High School,929 Charles Allen Dr NE
+2017-08-15,GA,Bogart,North Oconee High School College Panel,North Oconee High School,1081 Rocky Branch Rd
+2017-08-16,GA,Bogart,North Oconee High School,North Oconee High School,1081 Rocky Branch Rd
+2017-08-16,GA,Watkinsville,Westminster Christian Academy,Westminster Christian Academy,PO Box 388
+2017-08-17,GA,Athens,Athens Career Academy College Fair,Athens Community Career Academy,440 Dearing Ext Bldg 1
+2017-08-18,GA,Bogart,Prince Avenue Christian School,Prince Avenue Christian School,2201 Ruth Jackson Rd
+2017-08-18,GA,Griffin,Griffin High School,Griffin High School,1617 W Poplar St
+2017-08-18,GA,Griffin,Spalding High School,Spalding High School,433 Wilson Rd
+2017-08-18,GA,Jackson,Jackson High School,Jackson High School,717 S Harkness St
+2017-08-18,GA,Watkinsville,Oconee County High School,Oconee County High School,2721 Hog Mountain Rd
 2017-08-21,GA,Albany,"Peach State Tour - Albany, GA",Deerfield-Windsor School,2500 Nottingham Way
 2017-08-21,GA,Martinez,"Peach State Tour - Augusta, GA",Augusta Preparatory Day School,285 Flowing Wells Rd
-2017-08-21,GA,Peachtree Cty,"Peach State Tour - Atlanta, GA",Mcintosh High School,201 Walt Banks Rd
-2017-08-22,GA,Hamilton,"Peach State Tour - Columbus, GA",Harris County High School,8281 Ga Highway 116
+2017-08-21,GA,Peachtree Cty,"Peach State Tour - Peachtree City, GA",Mcintosh High School,201 Walt Banks Rd
+2017-08-21,GA,Rome,Darlington School College Boot Camp,Darlington School,1014 Cave Spring Rd SW
+2017-08-22,GA,Bogart,North Oconee High School College Panel,North Oconee High School,1081 Rocky Branch Rd
+2017-08-22,GA,Fayetteville,Starr's Mill HS Visit,Starr's Mill High School,193 Panther Path
+2017-08-22,GA,Fayetteville,Whitewater High School Visit,Whitewater High School,100 Wildcat Way
+2017-08-22,GA,Gray,Jones County High School,Jones County High School,339 Cumslo Rd
+2017-08-22,GA,Jeffersonvlle,Twiggs High School,Twiggs County Comprehensive Mi,375 Watson Dr
 2017-08-22,GA,Macon,"Peach State Tour - Macon, GA",Stratford Academy,6010 Peake Rd
+2017-08-22,GA,Morrow,Elite Scholars Academy,Elite Scholars Academy Charter,5968 Maddox Rd
+2017-08-22,GA,Quitman,Brooks County High School,Brooks County High School,1081 Moultrie Hwy
 2017-08-22,GA,Valdosta,"Peach State Tour - Valdosta, GA",Valdosta High School,3101 N Forrest St
-2017-08-23,GA,Cairo,"Peach State Tour - Bainbridge, GA",Cairo High School,455 5th St SE
+2017-08-23,GA,Athens,Clarke Central High School,Clarke Central High School,350 S Milledge Ave
+2017-08-23,GA,Athens,"Peach State Tour - Athens, GA (UGA Chapel)",University of Georgia,109 Herty Dr
+2017-08-23,GA,Atlanta,Atlanta Classical Academy,Atlanta Classical Academy Charter School,3260 Northside Dr NW
+2017-08-23,GA,Cairo,"Peach State Tour - Cairo, GA",Cairo High School,455 5th St SE
+2017-08-23,GA,Lyons,Robert Toombs Christian,Robert Toombs Christian Acad,PO Box 227
+2017-08-23,GA,Marietta,George Walton Comprehensive High School,George Walton Comprehensive High School,1590 Bill Murdock Rd
+2017-08-23,GA,Marietta,The Walker School,Walker School,700 Cobb Pkwy N
+2017-08-23,GA,Roswell,Blessed Trinity Catholic High School,Blessed Trinity Catholic High School,11320 Woodstock Rd
 2017-08-23,GA,Vidalia,"Peach State Tour - Vidalia, GA",Vidalia High School,1001 North St W
+2017-08-24,GA,Athens,Monsignor Donovan Catholic High School,Monsignor Donovan Catholic High School,590 Lavender Rd
+2017-08-24,GA,Carrollton,Central High School,Central High School,113 Central High Rd
 2017-08-24,GA,Carrollton,"Peach State Tour - Carrollton, GA",Carrollton High School,202 Trojan Dr
 2017-08-24,GA,Louisville,"Peach State Tour - Louisville, GA",Thomas Jefferson Academy,2264 US Highway 1 N
 2017-08-24,GA,Tifton,"Peach State Tour - Tifton, GA",Tift County High School,1 Blue Devil Way
-2017-08-27,GA,Tiger,"Peach State Tour - Clayton, GA",Rabun County High School,230 Wildcat Hill Dr
+2017-08-24,GA,Waynesboro,Burke County High School,Burke County High School,1057 Burke Veterans Pkwy
+2017-08-25,CA,Anaheim,Fairmont Preparatory Academy Visit,Fairmont Preparatory Academy,2200 W Sequoia Ave
+2017-08-25,CA,Santa Ana,Segerstrom High School RACC Pres & Mini Fair,Segerstrom High School,2301 W Macarthur Blvd
+2017-08-25,GA,Atlanta,Brandon Hall School,Brandon Hall School,1701 Brandon Hall Dr
+2017-08-25,GA,Atlanta,Holy Innocents Episcopal School,Holy Innocents Episcopal School,805 Mount Vernon Hwy
+2017-08-25,GA,Atlanta,Mount Vernon Presbyterian School,Mount Vernon Presbyterian School,510 Mount Vernon Hwy NE
+2017-08-25,GA,Lincolnton,Lincoln County High School,Lincoln County High School,200 Charles Ward Elam Dr
+2017-08-25,GA,Monroe,George Walton Academy,George Walton Academy,1 Bulldog Dr
+2017-08-25,GA,Monroe,Monroe Area High School Essay Writing Workshop,Monroe Area High School,300 Double Springs Church Rd SW
+2017-08-25,GA,Thomson,Thomson High School,Thomson High School,PO Box 1077
+2017-08-25,GA,Warrenton,Briarwood Academy,Briarwood Academy,4859 Thomson Hwy
+2017-08-27,GA,Tiger,"Peach State Tour - Tiger, GA",Rabun County High School,230 Wildcat Hill Dr
+2017-08-28,GA,Chickamauga,Gordon Lee High School,Gordon Lee Memorial High School,105 Lee Cir
 2017-08-28,GA,Gainesville,"Peach State Tour - Gainesville, GA",Lakeview Academy,796 Lakeview Dr
-2017-08-28,GA,La Fayette,"Peach State Tour - Dalton, GA",LaFayette High School,100 Rambler Dr
+2017-08-28,GA,La Fayette,"Peach State Tour - LaFayette, GA",LaFayette High School,100 Rambler Dr
+2017-08-28,GA,Rabun Gap,Rabun Gap-Nacoochee School,Rabun Gap-Nacoochee School,339 Nacoochee Dr
+2017-08-28,GA,Rossville,Ridgeland High School,Ridgeland High School,2478 Happy Valley Rd
 2017-08-28,GA,Savannah,"Peach State Tour - Savannah, GA",Savannah Country Day School,824 Stillwood Dr
+2017-08-28,GA,Tallulah Falls,Tallulah Falls School,Tallulah Falls School,201 Campus Dr
+2017-08-28,GA,Tiger,Rabun County High School,Rabun County High School,230 Wildcat Hill Dr
+2017-08-29,CA,Moorpark,Moorpark High School,Moorpark High School,4500 Tierra Rejada Rd
+2017-08-29,CA,West Hills,Chaminade College Prep RACC Mini Fair,Chaminade College Preparatory,7500 Chaminade Ave
+2017-08-29,CA,Woodland Hls,El Camino Real Charter HS RACC Pres & Mini Fair,El Camino Real Charter High Sc,5440 Valley Circle Blvd
 2017-08-29,GA,Brunswick,"Peach State Tour - Brunswick, GA",Glynn Academy,1001 Mansfield St
 2017-08-29,GA,Cartersville,"Peach State Tour - Cartersville/Rome, GA",Cartersville High School,320 E Church St
+2017-08-29,GA,Cartersville,Woodland High School,Woodland High School,800 Old Alabama Rd SE
+2017-08-29,GA,Ellijay,"Peach State Tour - Ellijay, GA",Gilmer High School,408 Bobcat Trl
+2017-08-29,GA,Gainesville,Gainesville High School,Gainesville High School,830 Century Pl
+2017-08-29,GA,Gainesville,Lakeview Academy,Lakeview Academy,796 Lakeview Dr
+2017-08-29,GA,White,Cass High School,Cass High School,1000 Colonel Way NE
+2017-08-30,GA,Athens,Cedar Shoals High School,Cedar Shoals High School,1300 Cedar Shoals Dr
+2017-08-30,GA,Brunswick,Brunswick High School,Brunswick High School,3885 Altama Ave
+2017-08-30,GA,Dalton,Christian Heritage School,Christian Heritage School,1600 Mlk Jr Blvd
+2017-08-30,GA,Dalton,Coahulla Creek High School,Coahulla Creek High School,3361 Crow Rd NE
+2017-08-30,GA,Tunnel Hill,Northwest Whitfield County High School,Northwest Whitfield County High School,1651 Tunnel Hill Varnell Rd
 2017-08-30,GA,Waycross,"Peach State Tour - Waycross, GA",Ware County High School,700 Victory Dr
+2017-08-31,GA,Ft Oglethorpe,Lakeview Fort Oglethorpe High School,Lakeview Fort Oglethorpe High School,1850 Battlefield Pkwy
+2017-08-31,GA,Marietta,Marietta High School,Marietta High School,1171 Whitlock Ave SW
+2017-08-31,GA,Ringgold,Heritage High School,Heritage High School,3960 Poplar Springs Rd
+2017-08-31,GA,Ringgold,Ringgold High School,Ringgold High School,29 Tiger Trl
+2017-08-31,TX,Aledo,Aledo High School DARN Mini Fair,Aledo High School,1000 Bailey Ranch Rd
+2017-08-31,TX,Fort Worth,Nolan Catholic High School Visit,Nolan Catholic High School,4501 Bridge St
+2017-09-01,CA,Agoura Hills,Agoura High School,Agoura High School,28545 Driver Ave
+2017-09-01,CA,Sherman Oaks,Notre Dame High School,Notre Dame High School,13645 Riverside Dr
+2017-09-01,CA,Westlake Vlg,Oaks Christian RACC Mini Fair,Oaks Christian High School,31749 La Tienda Rd
+2017-09-01,GA,Dallas,Paulding County High School,Paulding County High School,1297 Villa Rica Hwy
+2017-09-01,GA,Hiram,Hiram High School,Hiram High School,702 Ballentine Dr
+2017-09-01,VA,Middleburg,Foxcroft Essay Workshop,Foxcroft School,PO Box 5555
 2017-09-05,CA,Los Angeles,Milken Community High School,Milken Community High School,15800 Zeldins Way
 2017-09-05,CA,Pacific Plsds,Palisades Charter High School,Palisades Charter High School,15777 Bowdoin St
 2017-09-05,CA,Studio City,Harvard-Westlake School,Harvard-Westlake School,3700 Coldwater Canyon Ave
-2017-09-05,GA,Atlanta,Charles R. Drew Charter,Charles R Drew Charter School,301 E Lake Blvd SE
 2017-09-05,GA,Brunswick,Glynn Academy,Glynn Academy,1001 Mansfield St
-2017-09-05,GA,Milton,"Peach State Tour - Milton, GA",Milton High School,13025 Birmingham Hwy
+2017-09-05,GA,St Simons Is,Frederica Academy Senior College Night,Frederica Academy,200 Murray Way
 2017-09-05,GA,Tucker,PROBE Dekalb North Fair at Tucker High School,Tucker High School,5036 Lavista Rd
 2017-09-05,TX,Fort Worth,"UGA at ""A Southern Tour"" - Fossil Ridge",Fossil Ridge High School,4101 Thompson Rd
 2017-09-05,TX,Richardson,Richardson High School Mini Fair - DARN,Richardson High School,1250 W Belt Line Rd
@@ -179,6 +282,7 @@ event_date,event_state,event_city,event_name,event_location_name,event_address
 2017-09-07,TX,Plano,Plano West High School Visit,Plano West Senior High School,5601 W Parker Rd
 2017-09-08,GA,Atlanta,North Atlanta High School College Fair,North Atlanta High School,4111 Northside Pkwy NW
 2017-09-08,GA,Duluth,Duluth High School Visit,Duluth High School,3737 Brock Rd
+2017-09-08,GA,Peachtree Cor,Wesleyan School,Wesleyan School,5405 Spalding Dr
 2017-09-08,GA,Suwanee,4th Annual Collins Hill High School College Fair,Collins Hill High School,50 Taylor Rd
 2017-09-08,GA,Suwanee,Peachtree Ridge High School Visit,Peachtree Ridge High School,1555 Old Peachtree Rd NW
 2017-09-08,KY,Louisville,duPont Manual High School,Dupont Manual High School,120 W Lee St
@@ -189,64 +293,24 @@ event_date,event_state,event_city,event_name,event_location_name,event_address
 2017-09-09,GA,Atlanta,KIPP-Lovett-Westminster College Day,Renaissance Atlanta Waverly Hotel & Conference Center,2452 Galleria Pkwy SE
 2017-09-09,KY,Louisville,NACAC Louisville National College Fair,Bellarmine University,2001 Newburg Rd
 2017-09-10,GA,College Park,Woodward Academy College Fair 2017,Woodward Academy,1662 Rugby Ave
-2017-09-11,GA,Alpharetta,PROBE Atlanta North Fair at North Point Mall,North Point Mall,1000 N Point Cir
-2017-09-11,GA,Greenville,Greenville High School,Greenville High School,PO Box 340
-2017-09-11,GA,Hogansville,Callaway High School,Callaway High School,221 Whitfield Rd
-2017-09-11,GA,Kennesaw,"Peach State Tour - Kennesaw, GA",Harrison High School,4500 Due West Rd NW
-2017-09-11,GA,Lagrange,LaGrange Academy,La Grange Academy,1501 Vernon Rd
-2017-09-11,GA,Lagrange,LaGrange High School,Lagrange High School,516 N Greenwood St
-2017-09-11,GA,Rome,Armuchee High School,Armuchee High School,4203 Martha Berry Hwy NW
-2017-09-11,GA,Rome,Darlington School's Annual College Fair,Darlington School,1014 Cave Spring Rd SW
-2017-09-11,GA,Rome,Model High School,Model High School,3252 Calhoun Rd NE
-2017-09-11,GA,Sandy Springs,North Springs Charter HS,North Springs Charter HS,7447 Roswell Rd
-2017-09-11,GA,Sandy Springs,Riverwood International Charter School,Riverwood International Charter School,5900 Raider Dr
-2017-09-11,SC,Charleston,CACRAO - Charleston County Independent School Evening Fair,Porter-Gaud School,300 Albemarle Rd
-2017-09-11,SC,Daniel Island,Bishop England High School,Bishop England High School,363 Seven Farms Dr
-2017-09-11,SC,N Charleston,Academic Magnet High School,Academic Magnet High School,5109A W Enterprise St
-2017-09-11,SC,N Charleston,CACRAO - Charleston County Consolidated Morning Fair,North Charleston Coliseum & Performing Arts Center,5001 Coliseum Dr
 2017-09-11,TX,Austin,Austin High School Visit,Stephen F Austin High School,1715 W Cesar Chavez St
 2017-09-11,TX,Austin,James Bowie High School Visit,James Bowie High School,4103 W Slaughter Ln
 2017-09-11,TX,Austin,Veritas Academy Visit,Veritas Academy,4220 Monterey Oaks Blvd
 2017-09-11,TX,Austin,Westwood High School Visit,Westwood High School,12400 Mellow Meadow Dr
 2017-09-11,TX,Dallas,Highland Park High School College Night,Highland Park High School,4220 Emerson Ave
-2017-09-11,TX,Plano,Plano Senior High School College Night 2017,Plano Senior High School,2200 Independence Pkwy
 2017-09-12,CA,Calabasas,Calabasas High School,Calabasas High School,22855 Mulholland Hwy
 2017-09-12,CA,Thousand Oaks,La Reina High School,La Reina High School,106 W Janss Rd
 2017-09-12,CA,Westlake Vlg,Westlake High School Visit,Westlake High School,100 N Lakeview Canyon Rd
 2017-09-12,DC,Washington,Georgetown Visitation,Georgetown Visitation Prep School,1524 35th St NW
 2017-09-12,DC,Washington,Gonzaga College HS,Gonzaga College High School,19 I St NW
 2017-09-12,DC,Washington,St Johns College HS,Saint Johns College HS,2607 Military Rd NW
-2017-09-12,GA,Cumming,Pinecrest Academy,Pinecrest Academy,955 Peachtree Pwky
-2017-09-12,GA,Cumming,PROBE Forsyth County Fair at Lanier Tech Conference Center,Forsyth Conference Center at Lanier Technical College,3410 Ronald Reagan Blvd
-2017-09-12,GA,Decatur,Decatur High School,Decatur High School,310 N Mcdonough St
-2017-09-12,GA,Kathleen,Veterans High School Senior Night,Veterans High School,340 Piney Grove Rd
-2017-09-12,GA,Lagrange,Troup County Comprehensive High School,Troup County Comprehensive High School,1920 Hamilton Rd
-2017-09-12,GA,Manchester,Manchester High School,Manchester High School,405 N 5th Ave
-2017-09-12,GA,Marietta,PROBE Cobb County Fair at Marietta High School,Marietta High School,1171 Whitlock Ave SW
-2017-09-12,GA,Thomaston,Upson-Lee High School,Upson-Lee High School,268 Knight Trl
-2017-09-12,GA,Zebulon,Pike County High School,Pike County High School,331 Pirate Dr
 2017-09-12,NC,Concord,Cannon School,Cannon School,5801 Poplar Tent Rd
 2017-09-12,NC,Huntersville,Lake Norman Charter School,Lake Norman Charter School,12701 Old Statesville Rd
-2017-09-12,NC,Waxhaw,Marvin Ridge High School,Marvin Ridge High School,2825 Crane Rd
-2017-09-12,SC,Summerville,CACRAO - Ashley Ridge High School,Ashley Ridge High School,9800 Delemar Hwy
-2017-09-12,SC,Summerville,CACRAO - Summerville High School Fair,Summerville High School,1101 Boone Hill Rd
-2017-09-12,SC,Summerville,Pinewood Preparatory,Pinewood Preparatory School,1114 Orangeburg Rd
 2017-09-12,TN,Chattanooga,Baylor School College Fair,Baylor School,171 Baylor School Rd
-2017-09-12,TX,Carrollton,Carrollton-Farmers Branch ISD College Night @Creekview High School,Creekview High School,3201 Old Denton Rd
 2017-09-12,TX,Dallas,College Night for Dallas Catholic High Schools,Jesuit College Preparatory Sch,12345 Inwood Rd
 2017-09-12,TX,Fort Worth,Paschal High School Visit,Robert L Paschal High School,3001 Forest Park Blvd
-2017-09-12,TX,Plano,Plano East Senior High School College Fair,Plano East Senior High School,3000 Los Rios Blvd
 2017-09-12,TX,Richardson,JJ Pearce High School Visit,J J Pearce High School,1600 N Coit Rd
 2017-09-13,CA,Simi Valley,Simi Valley USD College Fair,Simi Valley High School,5400 Cochran St
-2017-09-13,FL,Niceville,Okaloosa and Walton County College Night,Northwest Florida State College,100 College Blvd E
-2017-09-13,GA,Atlanta,Druid Hills High School,Druid Hills High School,1798 Haygood Dr NE
-2017-09-13,GA,Duluth,PROBE Gwinnett North Fair at Infinite Energy Center,Infinite Energy Center,6400 Sugarloaf Pkwy
-2017-09-13,GA,Dunwoody,Dunwoody High School,Dunwoody High School,5035 Vermack Rd
-2017-09-13,GA,Lawrenceville,Archer High School Visit,Archer High School,2255 New Hope Rd
-2017-09-13,GA,Macon,Central High School,Central High School,2155 Napier Ave
-2017-09-13,GA,Macon,First Presbyterian Day School,First Presbyterian Day School,5671 Calvin Dr
-2017-09-13,GA,Macon,Stratford Academy,Stratford Academy,6010 Peake Rd
-2017-09-13,GA,Macon,Tattnall Square Academy,Tattnall Square Academy,111 Trojan Trl
 2017-09-13,MD,Bethesda,Stone Ridge,Stone Ridge Sch Sacred Heart,9101 Rockville Pike
 2017-09-13,MD,Bethesda,Walt Whitman High School,Walt Whitman High School,7100 Whittier Blvd
 2017-09-13,MD,Bethesda,Walter Johnson High School,Walter Johnson High School,6400 Rock Spring Dr
@@ -254,21 +318,14 @@ event_date,event_state,event_city,event_name,event_location_name,event_address
 2017-09-13,NC,Asheville,Asheville High School,Asheville High School,419 Mcdowell St
 2017-09-13,NC,Asheville,Carolina Day School,Carolina Day School,1345 Hendersonville Rd
 2017-09-13,NC,Charlotte,Charlotte Catholic High School,Charlotte Catholic High School,7702 Pineville Matthews Rd
-2017-09-13,SC,Charleston,Ashley Hall,Ashley Hall,172 Rutledge Ave
-2017-09-13,SC,Charleston,James Island Charter High School,James Island Charter HS,1000 Fort Johnson Rd
-2017-09-13,SC,Johns Island,Charleston Collegiate,Charleston Collegiate School,2024 Academy Rd
-2017-09-13,SC,Mt Pleasant,CACRAO - Wando High School Fair,Wando High School,1000 Warrior Way
-2017-09-13,TN,Chattanooga,Girls Preparatory School,Girls Preparatory School,205 Island Ave
 2017-09-13,TN,Chattanooga,McCallie,Mccallie School,500 Dodds Ave
 2017-09-13,TN,Chattanooga,Notre Dame High School College Fair,Notre Dame High School,2701 Vermont Ave
 2017-09-13,TN,Chattanooga,Silverdale Baptist Academy,Silverdale Baptist Academy,7236 Bonny Oaks Dr
 2017-09-13,TX,Allen,TACRAO - Allen High School's 2017 College Night,Allen High School,300 Rivercrest Blvd
-2017-09-13,TX,Frisco,Frisco ISD College Fair@Lebanon Trail High School,Lebanon Trail High School,5151 Ohio Dr
 2017-09-13,TX,Lucas,Lovejoy High School College Fair,Lovejoy High School,2350 Estates Pkwy
 2017-09-13,VA,Alexandria,Thomas Jefferson Sci/Tec,Thomas Jefferson HS Sci/Tec,6560 Braddock Rd
 2017-09-14,CA,Dana Point,Dana Hills High School,Dana Hills High School,33333 Golden Lantern St
 2017-09-14,CA,San Clemente,San Clemente High School,San Clemente High School,700 Avenida Pico
-2017-09-14,FL,Panama City,Gulf Coast State College College Night,Gulf Coast State College,5230 U.S. 98
 2017-09-14,GA,Atlanta,PROBE Atlanta City Fair at Atlanta Metro State College,Atlanta Metropolitan State College,1630 Metropolitan Pkwy SW
 2017-09-14,GA,Augusta,2017 Central Savannah River Area (CSRA) College Night,James Brown Arena,601 7th St
 2017-09-14,MD,North Potomac,Quince Orchard,Quince Orchard High School,15800 Quince Orchard Rd
@@ -277,14 +334,15 @@ event_date,event_state,event_city,event_name,event_location_name,event_address
 2017-09-14,MD,Potomac,Winston Churchill,Winston Churchill High School,11300 Gainsborough Rd
 2017-09-14,NC,Arden,Christ School,Christ School,500 Christ School Rd
 2017-09-14,NC,Asheville,Asheville School,Asheville School,360 Asheville School Rd
-2017-09-14,NC,Asheville,CACRAO - Asheville Area Fair,University of North Carolina Asheville,1 University Heights
+2017-09-14,NC,Asheville,CACRAO - Asheville Area Fair,University of North Carolina Asheville,1 University Heights\Sherrill Center and Kimmel Arena
 2017-09-14,NC,Asheville,TC Roberson High School,T C Roberson High School,250 Overlook Rd
-2017-09-14,PA,Lansdale,North Penn High School,North Penn High School,1340 S Valley Forge Rd
-2017-09-14,SC,Charleston,Porter-Gaud School,Porter-Gaud School,300 Albemarle Rd
+2017-09-14,PA,Lansdale,,North Penn High School,1340 S Valley Forge Rd
 2017-09-14,TX,Allen,Allen High School Visit,Allen High School,300 Rivercrest Blvd
 2017-09-14,TX,Argyle,Liberty Christian School Visit,Liberty Christian School,1301 S US Highway 377
 2017-09-14,TX,Coppell,TACRAO - Coppell High School College Fair,Coppell High School,185 W Parkway Blvd
+2017-09-15,AL,Huntsville,Huntsville High School,Huntsville High School,2304 Billie Watkins St SW
 2017-09-15,AL,Huntsville,Randolph School,Randolph School,4915 Garth Rd SE
+2017-09-15,AL,Madison,Bob Jones High School,Bob Jones High School,650 Hughes Rd
 2017-09-15,CA,La Canada,La Canada High School,La Canada High School,4463 Oak Grove Dr
 2017-09-15,CA,La Canada,St. Francis High School,Saint Francis High School,200 Foothill Blvd
 2017-09-15,CA,Pasadena,Westridge High School,Westridge School For Girls,324 Madeline Dr
@@ -293,8 +351,7 @@ event_date,event_state,event_city,event_name,event_location_name,event_address
 2017-09-15,TX,Fort Worth,Fort Worth College Day 2017,Fort Worth Country Day School,4200 Country Day Ln
 2017-09-16,CA,Burbank,Burbank Unified School District College & Career Fair,John Burroughs High School,1920 W Clark Ave
 2017-09-17,AL,Birmingham,NACAC Birmingham National College Fair,Birmingham-Jefferson Convention Complex,2100 Richard Arrington Jr Blvd N
-2017-09-17,MO,Saint Louis,West County Private High School Fall College Fair - MOACAC,Christian Brothers College HS,1850 De La Salle Dr
-2017-09-17,NC,Raleigh,CACRAO - Wake County Schools@NC State University,North Carolina State University,1101 Gorman Street
+2017-09-17,NC,Raleigh,CACRAO - Wake County Schools@NC State University,North Carolina State University,1101 Gorman Street\McKimmon Center
 2017-09-18,AL,Birmingham,Altamont School,Altamont School,4801 Altamont Rd S
 2017-09-18,AL,Hoover,Hoover High School,Hoover High School,1000 Buccaneer Dr
 2017-09-18,AL,Mountain Brk,Mountain Brook High School,Mountain Brook High School,3650 Bethune Dr
@@ -315,7 +372,8 @@ event_date,event_state,event_city,event_name,event_location_name,event_address
 2017-09-18,NC,Raleigh,Raleigh Charter High School,Raleigh Charter High School,1307 Glenwood Ave
 2017-09-18,NC,Raleigh,Saint Mary's School,Saint Marys School,900 Hillsborough St
 2017-09-18,NC,Raleigh,St. David's School,Saint David's School,3400 White Oak Rd
-2017-09-18,PA,Horsham,Hatboro-Horsham High School,Hatboro-Horsham High School,899 Horsham Rd
+2017-09-18,PA,Horsham,,Hatboro-Horsham High School,899 Horsham Rd
+2017-09-18,SC,Greenville,CACRAO - Greenville County Consolidated Fair,TD Convention Center,1 Exposition Dr
 2017-09-18,SC,Greenville,CACRAO - Greenville County Consolidated Morning Fair,TD Convention Center,1 Exposition Dr
 2017-09-18,SC,Greenville,Christ Church Episcopal School,Christ Church Episcopal School,567 Wenwood Rd
 2017-09-18,SC,Greenville,Wade Hampton High School,Wade Hampton High School,100 Pine Knoll Dr
@@ -324,7 +382,6 @@ event_date,event_state,event_city,event_name,event_location_name,event_address
 2017-09-18,TX,Austin,Vandergrift High School Visit,Vandegrift High School,9500 Mcneil Dr
 2017-09-18,TX,Austin,Westlake High School Visit,Westlake High School,4100 Westbank Dr
 2017-09-18,TX,Fort Worth,2017 Citywide College Night - Fort Worth Independent School District,Amon G Carter Exhibits Building,3400 Burnett Tandy Dr
-2017-09-18,TX,Prosper,Prosper High School College Night,Prosper High School,301 Eagle Dr
 2017-09-18,TX,Round Rock,Round Rock High School Visit,Round Rock High School,300 N Lake Creek Dr
 2017-09-18,VA,Alexandria,Bishop Ireton High School,Bishop Ireton High School,201 Cambridge Rd
 2017-09-18,VA,Alexandria,Episcopal High School,Episcopal High School,1200 N Quaker Ln
@@ -341,7 +398,6 @@ event_date,event_state,event_city,event_name,event_location_name,event_address
 2017-09-19,GA,Douglasville,PROBE Douglas County Fair at Arbor Place Mall,Arbor Place,6700 Douglas Blvd
 2017-09-19,GA,Ellaville,Schley County High School,Schley County High School,PO Box 1350
 2017-09-19,GA,Montezuma,Macon County High School,Macon County High School,611 Vienna Rd
-2017-09-19,GA,Tifton,UGA Southwest ShowCAES,Uga Tifton Campus Conf Center,15 R D C Road
 2017-09-19,LA,Kenner,NACAC New Orleans National College Fair,Pontchartrain Convention & Civic Center,4545 Williams Blvd
 2017-09-19,LA,Metairie,St. Martin's Episcopal School,Saint Martins Episcopal School,225 Green Acres Rd
 2017-09-19,MD,Bethesda,Bethesda Chevy Chase,Bethesda Chevy Chase HS,4301 East West Hwy
@@ -350,7 +406,8 @@ event_date,event_state,event_city,event_name,event_location_name,event_address
 2017-09-19,NC,Durham,Durham Academy,Durham Academy Upper School,3601 Ridge Rd
 2017-09-19,NC,Raleigh,Cardinal Gibbons High School,Cardinal Gibbons High School,1401 Edwards Mill Rd
 2017-09-19,NC,Raleigh,GRACE Christian School,Grace Christian School,1101 Buck Jones Rd
-2017-09-19,SC,Greenville,Greenville Senior High Academy,Greenville HS Acad Law Fin Bus,1 Vardry St
+2017-09-19,SC,Greenville,CACRAO - Greenville County Consolidated Morning Fair,TD Convention Center,1 Exposition Dr
+2017-09-19,SC,Greenville,James L. Mann High School,James L Mann High School,160 Fairforest Way
 2017-09-19,SC,Mauldin,Mauldin High School,Mauldin High School,701 E Butler Rd
 2017-09-19,TN,Chattanooga,McCallie/GPS 2017 College Night,Mccallie School,500 Dodds Ave
 2017-09-19,TN,Nashville,Ensworth High School Mini College Fair,Ensworth High School,7401 Highway 100
@@ -360,9 +417,9 @@ event_date,event_state,event_city,event_name,event_location_name,event_address
 2017-09-19,TX,Dallas,Saint Marks School Visit,Saint Marks School Of Texas,10600 Preston Rd
 2017-09-19,TX,Dallas,Ursuline Academy Visit,Ursuline Academy,4900 Walnut Hill Ln
 2017-09-19,TX,Garland,Garland ISD 2017 College Night,Curtis Culwell Center,4999 Naaman Forest Blvd
-2017-09-19,TX,Irving,Irving ISD College Night@Jack E. Singley Academy,Jack E. Singley Academy,4601 N Macarthur Blvd
 2017-09-19,TX,Westlake,Westlake Academy Visit,Westlake Academy,2600 J T Ottinger Rd
 2017-09-20,CA,Calabasas,Viewpoint School,Viewpoint School,23620 Mulholland Hwy
+2017-09-20,CA,Granada Hills,Granada Hills Charter High School,Granada Hills Charter High Sch,10535 Zelzah Ave
 2017-09-20,CA,N Hollywood,Oakwood School,Oakwood School,11600 Magnolia Blvd
 2017-09-20,CA,Van Nuys,iLEAD North Hollywood,iLEAD Hybrid - North Hollywood (NoHo),14701 Friar St
 2017-09-20,GA,Buena Vista,Marion County High School,Marion County High School,1 Eagle Dr
@@ -378,7 +435,6 @@ event_date,event_state,event_city,event_name,event_location_name,event_address
 2017-09-20,SC,Columbia,Cardinal Newman High School,Cardinal Newman High School,4701 Forest Dr
 2017-09-20,SC,Columbia,Hammond School,Hammond School,854 Galway Ln
 2017-09-20,SC,Columbia,Heathwood Hall Episcopal School,Heathwood Hall Episcopal Sch,3000 S Beltline Blvd
-2017-09-20,SC,Columbia,Spring Valley High School,Spring Valley High School,120 Sparkleberry Ln
 2017-09-20,TN,Brentwood,Brentwood High School,Brentwood High School,5304 Murray Ln
 2017-09-20,TN,Franklin,Williamson County College Fair 2017,Cool Springs Galleria,1800 Galleria Blvd
 2017-09-20,TN,Nashville,Father Ryan High School College Fair,Father Ryan High School,700 Norwood Dr
@@ -391,19 +447,18 @@ event_date,event_state,event_city,event_name,event_location_name,event_address
 2017-09-20,VA,Richmond,Mills E Godwin,Mills E Godwin High School,2101 Pump Rd
 2017-09-21,CA,Los Alamitos,Los Alamitos High School,Los Alamitos High School,3591 Cerritos Ave
 2017-09-21,CA,Pls Vrds Pnsl,Chadwick School,Chadwick School,26800 Academy Dr
-2017-09-21,CA,Torrance,Bishop Montgomery High Schol,Bishop Montgomery High School,5430 Torrance Blvd
+2017-09-21,CA,Torrance,Bishop Montgomery High School,Bishop Montgomery High School,5430 Torrance Blvd
 2017-09-21,GA,Duluth,Northview High School,Northview High School,10625 Parsons Rd
 2017-09-21,GA,Fort Valley,Peach County High School,Peach County High School,900 Campus Dr
 2017-09-21,GA,Jefferson,Jefferson High School,Jefferson High School,575 Washington St
 2017-09-21,GA,Johns Creek,Johns Creek High School,Johns Creek High School,5575 State Bridge Rd
 2017-09-21,GA,Loganville,Grayson High School College Fair,Grayson High School,50 Hope Hollow Rd
-2017-09-21,GA,Lyons,UGA Southeast ShowCAES,Toombs County Ag Center,523 Quint Shrine Rd # 529
-2017-09-21,GA,Macon,Howard High School,Howard High School,6400 Forsyth Rd
 2017-09-21,GA,Milton,Cambridge High School,Cambridge High School,2845 Bethany Bnd
-2017-09-21,GA,Perry,The Westfield School,Westfield School,PO Box 2300
+2017-09-21,GA,Perry,The Westfield School,Westfield School,2005 US-41
 2017-09-21,LA,Baton Rouge,Dunham School Visit,Dunham School,11111 Roy Emerson Dr
 2017-09-21,LA,Baton Rouge,Episcopal School,Episcopal High School,3200 Woodland Ridge Blvd
 2017-09-21,LA,Baton Rouge,Parkview Baptist High School,Parkview Baptist High School,5750 Parkview Church Rd
+2017-09-21,LA,Baton Rouge,University Laboratory School,University Laboratory School,Louisiana State University\45 Dalrymple Dr
 2017-09-21,LA,New Orleans,Jesuit High School New Orleans College Fair,Jesuit High School,4133 Banks St
 2017-09-21,MD,Bethesda,Holton Arms,Holton Arms School,7303 River Rd
 2017-09-21,TN,Brentwood,Brentwood Academy,Brentwood Academy,219 Granny White Pike
@@ -414,6 +469,7 @@ event_date,event_state,event_city,event_name,event_location_name,event_address
 2017-09-21,TX,Mckinney,McKinney ISD College Night 2017,Mckinney Boyd High School,600 N Lake Forest Dr
 2017-09-22,CA,Los Angeles,Wildwood School,Wildwood School,11811 W Olympic Blvd
 2017-09-22,CA,Santa Monica,New Roads School,New Roads School,3131 Olympic Blvd
+2017-09-22,GA,Sandy Springs,North Springs Charter,North Springs Charter HS,7447 Roswell Rd
 2017-09-22,LA,Covington,Northlake Christian School,Northlake Christian School,70104 Wolverine Dr
 2017-09-22,LA,Mandeville,Fontainebleau High School,Fontainebleau High School,100 Bulldog Dr
 2017-09-22,LA,Mandeville,Mandeville High School,Mandeville High School,1 Skipper Dr
@@ -422,13 +478,18 @@ event_date,event_state,event_city,event_name,event_location_name,event_address
 2017-09-25,CA,Orange,Orange Lutheran High School RACC Mini Fair,Lutheran High Schl Orange Cnty,2222 N Santiago Blvd
 2017-09-25,GA,Albany,Deerfield-Windsor High School,Deerfield-Windsor School,2500 Nottingham Way
 2017-09-25,GA,Albany,Sherwood Christian Academy,Sherwood Christian Academy,1418 Old Pretoria Rd
-2017-09-25,GA,Decatur,Southwest Dekalb High School,Southwest Dekalb High School,2863 Kelley Chapel Rd
+2017-09-25,GA,Athens,Move On When Ready Information Session,University Of Georgia - Terrell Hall Presentation Hall,210 S Jackson St
+2017-09-25,GA,Atlanta,NACAC Atlanta Performing and Visual Arts College Fair,Cobb Energy Performing Arts Centre,2800 Cobb Galleria Pkwy
+2017-09-25,GA,Decatur,Southwest Dekalb High School  (Lunch and Learn),Southwest Dekalb High School,2863 Kelley Chapel Rd
 2017-09-25,GA,Leesburg,Lee County High School,Lee County High School,1 Trojan Way
 2017-09-25,GA,Lithonia,"Martin Luther King Jr, High School",Martin Luther King Jr High Sch,3991 Snapfinger Rd
 2017-09-25,TN,Memphis,Christian Brothers High School,Christian Brothers High School,5900 Walnut Grove Rd
 2017-09-25,TN,Memphis,MACN - Memphis Area College Night,Agricenter International RV Park,7777 Walnut Grove Rd
 2017-09-25,TN,Memphis,Memphis University School,Memphis University School,6191 Park Ave
 2017-09-25,TN,Memphis,White Station High School,White Station High School,514 S Perkins Rd
+2017-09-25,TX,Austin,LC Anderson High School Visit,L C Anderson High School,8403 Mesa Dr
+2017-09-25,TX,Austin,Mccallum High School Visit,A N Mccallum High School,5600 Sunshine Dr
+2017-09-25,TX,Austin,Saint Stephens Episcopal School,Saint Stephens Episcopal School,6500 Saint Stephens Dr
 2017-09-25,TX,Austin,St Andrews Episcopal School Visit,St Andrews Episcopal School,5901 Southwest Pkwy
 2017-09-25,TX,Round Rock,Round Rock ISD 2017 College Fair,Round Rock High School,201 Deepwood Drive
 2017-09-25,VA,Alexandria,Thomas Jefferson HS Sci/Tec,Thomas Jefferson HS Sci/Tec,6560 Braddock Rd
@@ -451,9 +512,10 @@ event_date,event_state,event_city,event_name,event_location_name,event_address
 2017-09-26,TX,Austin,Hills of Austin College Fair @ Lake Travis High School,Lake Travis High School,3324 Ranch Road 620 S
 2017-09-26,TX,Austin,Hills of Austin College Fair @ St. Michael's Catholic Academy,Saint Michaels Catholic Acad,3000 Barton Creek Blvd
 2017-09-26,TX,Austin,Hills of Austin College Fair @ Westlake High School,Westlake High School,4100 Westbank Dr
-2017-09-26,TX,Austin,Lake Travis High School College Fair,Lake Travis High School,3324 Ranch Road 620 S
+2017-09-26,TX,Austin,Liberal Arts and Science Academy High School Visit,Liberal Arts and Science Academy,7309 Lazy Creek Dr
 2017-09-26,VA,Arlington,Yorktown,Yorktown High School,5200 Yorktown Blvd
 2017-09-27,CA,Newbury Park,CVUSD College & Career Information Night,Newbury Park High School,456 N Reino Rd
+2017-09-27,GA,Adel,Cook High School,Cook High School,One Hornet Way\9900 Highway 37
 2017-09-27,GA,Alpharetta,Mount Pisgah Christian School,Mount Pisgah Christian School,9820 Nesbit Ferry Rd
 2017-09-27,GA,Fairburn,Landmark Christian School,Landmark Christian School,50 SE Broad St
 2017-09-27,GA,Moultrie,Colquitt County High School,Colquitt County High School,1800 Park Ave SE
@@ -464,8 +526,6 @@ event_date,event_state,event_city,event_name,event_location_name,event_address
 2017-09-27,TN,Memphis,Saint Agnes Academy,Saint Agnes Academy,4830 Walnut Grove Rd
 2017-09-27,TN,Memphis,Saint Mary's Episcopal School,Saint Marys Episcopal School,60 Perkins Ext
 2017-09-27,TX,Austin,Austin High School Visit,Stephen F Austin High School,1715 W Cesar Chavez St
-2017-09-27,TX,Houston,UGA & GT Student Workshop - Houston,Strake Jesuit College Prep,8900 Bellaire Blvd
-2017-09-27,TX,Houston,UGA/GT Counselor Breakfast & Workshop - Houston,Ouisie's Table,3939 San Felipe St
 2017-09-27,TX,Round Rock,Cedar Ridge High School Visit,Cedar Ridge High School,2801 Gattis School Rd
 2017-09-28,CA,Irvine,Crean Lutheran High School College Fair,Crean Lutheran High School,12500 Sand Canyon Ave
 2017-09-28,CA,Irvine,Northwood High School Visit,Northwood High School,4515 Portola Pkwy
@@ -477,12 +537,13 @@ event_date,event_state,event_city,event_name,event_location_name,event_address
 2017-09-28,GA,Hahira,Valwood School,Valwood School,4380 Old US 41 N
 2017-09-28,GA,Hampton,Dutchtown High School Visit,Dutchtown High School,149 Mitchell Rd
 2017-09-28,GA,Jonesboro,Mundy's Mill High School Visit,Mundys Mill High School,9652 Fayetteville Rd
-2017-09-28,GA,Valdosta,Highland Christian Academy,Highland Christian Academy,2206 E Hill Ave
+2017-09-28,GA,Norcross,Meadowcreek High School Visit,Meadowcreek High School,4455 Steve Reynolds Blvd
 2017-09-28,GA,Valdosta,Lowndes High School,Lowndes High School,1606 Norman Dr
 2017-09-28,GA,Valdosta,Open Bible Christian School,Open Bible Christian School,3992 N Oak Street Ext
 2017-09-28,MD,Annapolis,Annapolis HS,Annapolis Senior High School,2700 Riva Rd
 2017-09-28,NC,Charlotte,Ardrey Kell High School,Ardrey Kell High School,10220 Ardrey Kell Rd
 2017-09-28,NC,Charlotte,Charlotte Country Day School,Charlotte Country Day School,1440 Carmel Rd
+2017-09-28,NC,Waxhaw,Marvin Ridge High School,Marvin Ridge High School,2825 Crane Rd
 2017-09-28,TX,Dallas,Dallas Lutheran School Visit,Dallas Lutheran School,8494 Stults Rd
 2017-09-28,TX,Dallas,Georgia Tech/UGA Workshop - Dallas,Saint Marks School Of Texas,10600 Preston Rd
 2017-09-29,CA,Canyon Cntry,Canyon High School,Canyon High School,19300 Nadal St
@@ -496,16 +557,13 @@ event_date,event_state,event_city,event_name,event_location_name,event_address
 2017-09-29,GA,Mcdonough,Henry County High School Visit,Henry County High School,401 Tomlinson St
 2017-09-29,GA,Mcdonough,Ola High School Visit,Ola High School,357 N Ola Rd
 2017-09-29,GA,Nashville,Berrien High School,Berrien High School,500 E Smith Ave
-2017-09-29,TX,Dallas,Georgia Tech/UGA Counselor Breakfast & Workshop - Dallas,Bread Winners Café & Bakery,8687 N Central Expy
 2017-10-01,FL,St Petersburg,Bay Area Independent School (BAIS) 2017 College Fair,The Coliseum,535 4th Ave N
 2017-10-01,NC,Durham,CACRAO - Durham Public Schools Fair,Northgate Mall,1058 W Club Blvd
-2017-10-02,AL,Birmingham,John Carroll Catholic High School College Night,John Carroll Catholic HS,300 Lakeshore Pkwy
 2017-10-02,CA,Los Angeles,Windward School,Windward School,11350 Palms Blvd
-2017-10-02,DC,Washington,Saint Albans School College Mini-Fair,Saint Albans School,3001 Wisconsin Ave NW
+2017-10-02,DC,Washington,Saint Albans School College Mini-Fair,Saint Albans School,"3001 Wisconsin Ave NW\Marriott Hall, Bradley Commons"
 2017-10-02,FL,Dover,Strawberry Crest High School,Strawberry Crest High School,4691 Gallagher Rd
 2017-10-02,FL,St Petersburg,Shorecrest Preparatory School,Shorecrest Preparatory School,5101 1st St NE
 2017-10-02,FL,Tampa,C. Leon King High School,C Leon King High School,6815 N 56th St
-2017-10-02,FL,Tampa,Tampa Preparatory School,Tampa Preparatory School,727 W Cass St
 2017-10-02,GA,Atlanta,Atlanta Girls School,Atlanta Girls School,3254 Northside Pkwy NW
 2017-10-02,GA,Atlanta,Evening with UGA in Atlanta,The Loudermilk Conference Center,40 Courtland St NE
 2017-10-02,GA,Atlanta,PROBE South Fulton Fair at Westlake High School,Westlake High School,2400 Union Rd SW
@@ -520,12 +578,15 @@ event_date,event_state,event_city,event_name,event_location_name,event_address
 2017-10-02,NC,High Point,Westchester Country Day School,Westchester Country Day School,2045 N Old Greensboro Rd
 2017-10-02,NC,Lewisville,Forsyth Country Day,Forsyth Country Day School,5501 Shallowford Rd
 2017-10-02,NC,Winston Salem,CACRAO - Winston-Salem: Forsyth County Schools,M.C. Benton Jr. Convention Center,301 W 5th St
-2017-10-02,NJ,Berkeley Hts,Livingston High School College Fair,Governor Livingston HS,175 Watchung Blvd
-2017-10-02,TN,Knoxville,Knoxville Catholic High School 2017 College Fair,Knoxville Catholic High School,9245 Fox Lonas Rd
+2017-10-02,NJ,Berkeley Hts,Governor Livingston High School College Fair,Governor Livingston HS,175 Watchung Blvd
+2017-10-02,TN,Knoxville,2017 Knoxville Catholic High School College Fair,Knoxville Catholic High School,9245 Fox Lonas Rd
+2017-10-02,TN,Knoxville,Webb School,Webb School Of Knoxville,9800 Webb School Ln
 2017-10-02,TN,Oak Ridge,Oak Ridge High School College Fair,Oak Ridge High School,1450 Oak Ridge Tpke
 2017-10-02,TX,Conroe,"Conroe, Montgomery and Willis ISD 2017 College Night",Lone Star Convention Center,9055 Airport Rd
+2017-10-02,TX,Houston,Saint Agnes Academy Visit,Saint Agnes Academy,9000 Bellaire Blvd
+2017-10-02,TX,Houston,Strake Jesuit School Visit,Strake Jesuit College Prep,8900 Bellaire Blvd
+2017-10-02,TX,Houston,Stratford High School Visit,Stratford High School,14555 Fern Dr
 2017-10-03,CA,Beverly Hills,Beverly Hills High School College Connections Fair,Beverly Hills High School,241 S Moreno Dr
-2017-10-03,CA,Mission Viejo,Trabuco Hills 2017 High School College Fair,Trabuco Hills High School,27501 Mustang Run
 2017-10-03,FL,Tampa,Academy Of The Holy Names,Academy Of The Holy Names,3319 Bayshore Bvld
 2017-10-03,FL,Tampa,Berkeley Preparatory School,Berkeley Preparatory School,4811 Kelly Rd
 2017-10-03,FL,Tampa,"Evening with UGA - Tampa, FL",Tampa Preparatory School,727 W Cass St
@@ -549,25 +610,29 @@ event_date,event_state,event_city,event_name,event_location_name,event_address
 2017-10-03,NJ,Manasquan,Manasquan High School's Post High School Education Night,Manasquan High School,167 Broad St
 2017-10-03,NJ,Middletown,Middletown High School South,Middletown High School South,900 Nutswamp Rd
 2017-10-03,NJ,Rumson,Rumson-Fair Haven High School,Rumson-Fair Haven Regional High School,74 Ridge Rd
+2017-10-03,TN,Knoxville,Christian Academy,Christian Academy Of Knoxville,529 Academy Way
 2017-10-03,TN,Knoxville,Farragut High School College Night,Farragut High School,11237 Kingston Pike
-2017-10-03,TX,Cypress,Cypress-Fairbanks ISD College Night @ Berry Center,Richard E Berry Center,8877 Barker Cypress Rd
+2017-10-03,TN,Knoxville,West High School,West High School,3300 Sutherland Ave
 2017-10-03,TX,Houston,Lamar High School College Night,Mirabeau B Lamar Sr High Sch,3325 Westheimer Rd
+2017-10-03,TX,The Woodlands,John Cooper School Visit,John Cooper School,1 John Cooper Dr
+2017-10-03,TX,The Woodlands,The Woodlands at College Park,Woodlands College Park HS The,3701 College Park Dr
+2017-10-03,TX,The Woodlands,The Woodlands High School Visit,Woodlands High School The,6101 Research Forest Dr
 2017-10-03,VA,Mclean,Madeira School,Madeira School The,8328 Georgetown Pike
 2017-10-03,VA,Mclean,The Potomac School,Potomac School,1301 Potomac School Rd
 2017-10-04,CA,La Canada,St. Francis High School's Annual College Fair,Saint Francis High School,200 Foothill Blvd
 2017-10-04,CA,Los Angeles,Loyola High School RACC Mini Fair,Loyola High School,1901 Venice Blvd
-2017-10-04,DC,Washington,Mini College Fair at Georgetown Day School,Georgetown Day School,4200 Davenport St NW
+2017-10-04,DC,Washington,Georgetown Day School Mini College Fair,Georgetown Day School,4200 Davenport St NW
 2017-10-04,FL,Lakewood Rch,Out Of Door Academy,Out Of Door Academy High Sch,5950 Deer Dr
 2017-10-04,FL,Osprey,Pine View School,Pine View School,1 Python Path
 2017-10-04,FL,Sarasota,Riverview High School,Riverview High School,1 Ram Way
 2017-10-04,GA,Atlanta,Ben Franklin Academy,Ben Franklin Academy,1585 Clifton Rd NE
 2017-10-04,GA,Atlanta,Booker T. Washington,Booker T Washington HS,45 Whitehouse Dr SW
 2017-10-04,GA,Atlanta,Holy Spirit Preparatory School,Holy Spirit Preparatory School,4465 Northside Dr NW
-2017-10-04,GA,Atlanta,Maynard Holbrook Jackson HS,Maynard Holbrook Jackson High School,801 Glenwood Ave SE
 2017-10-04,GA,Atlanta,South Atlanta High School,South Atlanta High School,800 Hutchens Rd SE
 2017-10-04,GA,Bainbridge,Grace Christian Academy,Grace Christian Academy,1302 Lake Douglas Rd
 2017-10-04,GA,Cairo,Cairo High School,Cairo High School,455 5th St SE
 2017-10-04,GA,Donalsonville,Seminole County Middle/High School,Seminole Cty Middle/HS,5582 Highway 39
+2017-10-04,GA,Hartwell,Hart County High School,Hart County High School,59 Fifth St
 2017-10-04,GA,Marietta,Lassiter High School,Lassiter High School,2601 Shallowford Rd
 2017-10-04,MD,Baltimore,Mount de Sales Academy & Mount Saint Joseph High School College Fair,Mount Saint Joseph High School,4403 Frederick Ave
 2017-10-04,NC,Charlotte,Charlotte Latin School,Charlotte Latin School,9502 Providence Rd
@@ -577,24 +642,35 @@ event_date,event_state,event_city,event_name,event_location_name,event_address
 2017-10-04,NJ,Lincroft,Christian Brothers Academy,Christian Brothers Academy,850 Newman Springs Rd
 2017-10-04,NJ,Middletown,Mater Dei Prep High School,Mater Dei Prep,538 Church St
 2017-10-04,NJ,Rumson,"Evening with UGA - Rumson, NJ",Rumson-Fair Haven Regional High School,74 Ridge Rd
-2017-10-04,TN,Knoxville,Webb School College Fair,Webb School Of Knoxville,9800 Webb School Ln
-2017-10-04,TX,Richmond,Fort Bend ISD College Night @ Travis High School,William B Travis High School,11111 Harlem Rd
+2017-10-04,TN,Knoxville,Bearden High School,Bearden High School,8352 Kingston Pike
+2017-10-04,TN,Knoxville,Webb School of Knoxville College Fair,Webb School Of Knoxville,9800 Webb School Ln
+2017-10-04,TN,Maryville,Maryville High School,Maryville High School,825 Lawrence Ave
+2017-10-04,TX,Bellaire,Episcopal School Visit,Episcopal High School,4650 Bissonnet St
+2017-10-04,TX,Cypress,Cypress-Fairbanks ISD College Night@Berry Center,Richard E Berry Center,8877 Barker Cypress Rd
+2017-10-04,TX,Houston,Kinkaid School Visit,Kinkaid School,201 Kinkaid School Dr
+2017-10-04,TX,Houston,Saint John's School Visit,Saint John's School,2401 Claremont Ln
 2017-10-05,CA,Rsm,Santa Margarita Catholic High School Annual College Fair,Santa Margarita Catholic HS,22062 Antonio Pkwy
 2017-10-05,CA,Santa Ana,Nova Academy College & Career Fair,Nova Academy Early College HS,2609 W 5th St
 2017-10-05,FL,Naples,Barron Collier High School,Barron Collier High School,5600 Cougar Dr
 2017-10-05,FL,Naples,Community School of Naples,Community School Of Naples,13275 Livingston Rd
+2017-10-05,FL,Naples,Seacrest Country Day School,Seacrest Country Day School,7100 Davis Blvd
 2017-10-05,GA,Atlanta,Best Academy/Coretta Scott King Women's Leadership Academy,Coretta Scott King Womens High School,1190 Northwest Dr NW
 2017-10-05,GA,Atlanta,Carver High School/Carver Early College Visit,Carver High School,55 Mcdonough Blvd SE
 2017-10-05,GA,Atlanta,Frederick Douglass High School,Frederick Douglass High School,225 Hamilton E Holmes Dr NW
 2017-10-05,GA,Bainbridge,Bainbridge High School,Bainbridge High School,1 Bearcat Blvd
-2017-10-05,GA,Camilla,Westwood School,Westwood School,PO Box 528
+2017-10-05,GA,Camilla,Westwood School,Westwood School,255 Fuller St
 2017-10-05,MD,Severna Park,Severn School,Severn School,201 Water St
 2017-10-05,MD,Severna Park,Severna Park HS,Severna Park Senior HS,60 Robinson Rd
 2017-10-05,NC,Charlotte,CACRAO - Charlotte: Mecklenburg County Schools,Charlotte Convention Center,501 S College St
 2017-10-05,NJ,Basking Ridge,Ridge High School,Ridge High School,268 S Finley Ave
 2017-10-05,NJ,Little Silver,Red Bank Regional High School,Red Bank Regional High School,101 Ridge Rd
+2017-10-05,NJ,Red Bank,Red Bank Catholic High School,Red Bank Catholic High School,112 Broad St
 2017-10-05,NJ,West Orange,Seton Hall Preparatory School's College Representatives Night,Seton Hall Preparatory School,120 Northfield Ave
-2017-10-06,FL,Jacksonville,Episcopal School of Jacksonville,Episcopal School of Jacksonville,4455 Atlantic Blvd
+2017-10-05,TX,Addison,Greenhill High School Visit,Greenhill School,4141 Spring Valley Rd
+2017-10-05,TX,Dallas,Episcopal School Of Dallas High School Visit,Episcopal School Of Dallas,4100 Merrell Rd
+2017-10-05,TX,Dallas,Jesuit College Prep School Visit,Jesuit College Preparatory Sch,12345 Inwood Rd
+2017-10-05,TX,Dallas,Parish Episcopal School Visit,Parish Episcopal School,4101 Sigma Rd
+2017-10-06,FL,Jacksonville,Episcopal School of Jacksonville,Episcopal Schl Jacksonville,4455 Atlantic Blvd
 2017-10-06,GA,Atlanta,The Westminster Schools,The Westminster Schools,1424 W Paces Ferry Rd NW
 2017-10-06,GA,Blakely,Early County High School College Fair,Early County High School,12020 Columbia St
 2017-10-06,GA,College Park,Woodward Academy,Woodward Academy,1662 Rugby Ave
@@ -606,19 +682,19 @@ event_date,event_state,event_city,event_name,event_location_name,event_address
 2017-10-09,CA,Malibu,Malibu High School,Malibu High School,30215 Morning View Dr
 2017-10-09,CA,Pacific Plsds,Palisades High School College Fair,Palisades Charter High School,15777 Bowdoin St
 2017-10-09,CA,Santa Monica,Santa Monica High School,Santa Monica High School,601 Pico Blvd
+2017-10-09,FL,Orlando,Timber Creek High School,Timber Creek High School,1001 Avalon Park South Blvd
 2017-10-09,FL,Windermere,Windermere Preparatory School,Windermere Preparatory School,6189 Winter Garden Vineland Rd
 2017-10-09,FL,Winter Garden,West Orange High School,West Orange High School,1625 Beulah Rd
 2017-10-09,FL,Winter Park,Trinity Preparatory School,Trinity Preparatory School,5700 Trinity Prep Ln
-2017-10-09,GA,Atlanta,Atlanta International School,Atlanta International School,2890 N Fulton Dr NE
 2017-10-09,GA,Atlanta,Galloway School,Galloway School,215 W Wieuca Rd NW
 2017-10-09,GA,Atlanta,Paideia School,Paideia School,1509 Ponce De Leon Ave NE
+2017-10-09,GA,Richmond Hill,Richmond Hill High School,Richmond Hill High School,1 Wildcat Dr
 2017-10-09,GA,Statesboro,Statesboro High School,Statesboro High School,10 Lester Rd
-2017-10-09,KY,Louisville,Sacred Heart Academy,Sacred Heart Academy,3175 Lexington Rd
 2017-10-09,MD,Kensington,Albert Einstein High School's 18th Annual College Fair,Albert Einstein High School,11135 Newport Mill Rd
 2017-10-09,NJ,Hillsborough,Hillsborough High School,Hillsborough High School,466 Raider Blvd
 2017-10-09,NJ,Monmouth Jct,South Brunswick High School,South Brunswick High School,750 Ridge Rd
 2017-10-09,NJ,Monroe Twp,Monroe Township High School,Monroe Township High School,200 Schoolhouse Rd
-2017-10-09,SC,Hartsville,South Carolina Governor's School for Science and Mathematics,Governor School Science,401 Railroad Ave
+2017-10-09,SC,Hartsville,,South Carolina Governor's School for Science and Mathematics,401 Railroad Ave
 2017-10-09,TX,Houston,Westside High School College Fair,Westside High School,14201 Briar Forest Dr
 2017-10-10,CA,Los Angeles,Immaculate Heart High School,Immaculate Heart High School,5515 Franklin Ave
 2017-10-10,CA,Los Angeles,Marlborough High School,Marlborough School,250 S Rossmore Ave
@@ -640,19 +716,18 @@ event_date,event_state,event_city,event_name,event_location_name,event_address
 2017-10-10,TX,Houston,Emory Weiner High School Visit,Emery Weiner School,9825 Stella Link Rd
 2017-10-10,TX,Houston,Memorial Senior High School Visit,Memorial Senior High School,935 Echo Ln
 2017-10-10,TX,Houston,Spring Branch ISD College Night,Spring Woods Senior HS,2045 Gessner Rd
-2017-10-10,VA,Fairfax,"VACRAO - George Mason University, Northern Virginia College Fair",George Mason University,4500 Patriot Circle
+2017-10-10,VA,Fairfax,"VACRAO - George Mason University, Northern Virginia College Fair",George Mason University,4500 Patriot Circle\Eaglebank Arena
 2017-10-11,CA,Brea,Brea Olinda High School,Brea Olinda High School,789 Wildcat Way
 2017-10-11,CA,Corona,Santiago High School College Fair,Santiago High School,1395 Foothill Pkwy
 2017-10-11,CA,Placentia,El Dorado High School,El Dorado High School,1651 Valencia Ave
-2017-10-11,FL,Saint Johns,Creekside High School,Creekside High School,100 Knights Ln
-2017-10-11,TX,Katy,Katy ISD College and Career Night,Leonard E. Merrell Center,6301 S Stadium Ln
 2017-10-11,TX,Missouri City,Elkins High School Visit,Elkins High School,7007 Knights Ct
-2017-10-11,VA,Alexandria,VACRAO - Episcopal High School College Fair,Episcopal High School,1200 N Quaker Ln
+2017-10-11,VA,Alexandria,VACRAO - Episcopal High School College Fair,Episcopal High School,1200 N Quaker Ln\Flippin Field House
 2017-10-12,CA,Newport Beach,Newport Harbor High School,Newport Harbor High School,600 Irvine Ave
 2017-10-12,CA,Riverside,Martin Luther King High School,Martin Luther King High School,9301 Wood Rd
 2017-10-12,CA,San Juan Capo,JSerra Catholic High School Annual College Fair,Jserra Catholic High School,26351 Junipero Serra Rd
-2017-10-12,CO,Aurora,Regis Jesuit High School Boys,Regis Jesuit High School Boys,6400 S Lewiston Way
-2017-10-12,CO,Greenwood Vlg,Cherry Creek High School,Cherry Creek High School,9300 E Union Ave
+2017-10-12,CA,San Juan Capo,Jserra Catholic HS Senior Essay Review,Jserra Catholic High School,26351 Junipero Serra Rd
+2017-10-12,CO,Aurora,,Regis Jesuit High School Boys,6400 S Lewiston Way
+2017-10-12,CO,Greenwood Vlg,,Cherry Creek High School,9300 E Union Ave
 2017-10-12,FL,Jacksonville,Stanton College Preparatory School,Stanton College Prep School,1149 W 13th St
 2017-10-12,FL,Jacksonville,The Bolles School,The Bolles School,7400 San Jose Blvd
 2017-10-12,FL,Orange Park,Saint Johns Country Day School,Saint Johns Country Day School,3100 Doctors Lake Dr
@@ -665,16 +740,18 @@ event_date,event_state,event_city,event_name,event_location_name,event_address
 2017-10-12,IL,Highland Park,Highland Park High School,Highland Park High School,433 Vine Ave
 2017-10-12,IL,Lincolnshire,Adlai Stevenson High School,Adlai E Stevenson High School,1 Stevenson Dr
 2017-10-12,IL,Mt Prospect,Mt. Prospect High School,Prospect High School,801 W Kensington Rd
-2017-10-12,TX,Bellaire,Houston ISD College Fair @ Bellaire High School,Bellaire Senior High School,5100 Maple St
 2017-10-12,TX,Houston,Duchesne High School Visit,Duchesne Academy Sacred Heart,10202 Memorial Dr
 2017-10-12,TX,Houston,Houston Catholic High Schools 2017 College Fair,Strake Jesuit College Prep,8900 Bellaire Blvd
 2017-10-12,TX,Sugar Land,Clements High School Visit,William P Clements High School,4200 Elkins Rd
+2017-10-12,TX,Sugar Land,Dulles High School Visit,Dulles High School,550 Dulles Ave
 2017-10-12,VA,Alexandria,St. Stephens and St Agnes,St Stephens and St Agnes School,1000 Saint Stephens Rd
 2017-10-12,VA,Alexandria,TC Williams High School,T C Williams High School,3330 King St
+2017-10-13,CA,Calabasas,Calabasas High School Essay Writing Workshop,Calabasas High School,22855 Mulholland Hwy
 2017-10-13,FL,Ponte Vedra,Allen D Nease High School,Allen D Nease High School,10550 Ray Rd
 2017-10-13,FL,Saint Johns,Bartram Trail High School,Bartram Trail High School,7399 Longleaf Pine Pkwy
 2017-10-13,FL,St Augustine,St. Joseph Academy,Saint Joseph Academy,155 State Road 207
 2017-10-13,IL,Hinsdale,Hinsdale High School,Hinsdale Central High School,55th And Grant  Rm #113
+2017-10-13,IL,Hoffman Est,Hoffman Estates High School,Hoffman Estates High School,1100 W Higgins Rd
 2017-10-13,IL,La Grange,Lyons Township High School,Lyons Township High School,100 S Brainard Ave
 2017-10-13,IL,Palatine,WM Fremd High School,William Fremd High School,1000 S Quentin Rd
 2017-10-14,FL,Jacksonville,NACAC Jacksonville National College Fair,Prime F. Osborn III Convention Center,1000 Water St
@@ -683,14 +760,13 @@ event_date,event_state,event_city,event_name,event_location_name,event_address
 2017-10-15,FL,Miami,AIMS (Association of Independent Miami Schools) College Fair,Hilton Miami Airport Hotel,5101 Blue Lagoon Dr
 2017-10-15,VA,Fairfax,VACRAO - Fairfax County College Fair,Fair Oaks Mall,11750 Fair Oaks Mall
 2017-10-16,CA,Anaheim,Tri-School College Night: Servite - Rosary - Connelly,Servite High School,1952 W La Palma Ave
-2017-10-16,DE,Claymont,Archmere Academy,Archmere Academy,3600 Philadelphia Pike
+2017-10-16,DE,Claymont,,Archmere Academy,3600 Philadelphia Pike
 2017-10-16,FL,Davie,Nova High School,Nova High School,3600 College Ave
 2017-10-16,FL,Ft Lauderdale,Pine Crest Invitational College Fair,Pine Crest School,1501 NE 62nd St
 2017-10-16,FL,Parkland,Marjory Stoneman Douglas High School,Marjory Stoneman Douglas HS,5901 Pine Island Rd
 2017-10-16,GA,Atlanta,Atlanta Jewish Academy,Atlanta Jewish Academy,3130 Raymond Dr
 2017-10-16,GA,Atlanta,Lakeside High School's 2017 Fall College Fair,Lakeside High School,3801 Briarcliff Rd NE
 2017-10-16,GA,Decatur,Decatur High School,Decatur High School,310 N Mcdonough St
-2017-10-16,NV,Las Vegas,Bishop Gorman High School Annual College Fair,Bishop Gorman High School,5959 S Hualapai Way
 2017-10-16,VA,Alexandria,VACRAO - Fairfax County College Night,Hayfield Secondary School,7630 Telegraph Rd
 2017-10-17,CA,Huntingtn Bch,Huntington Beach High School,Huntington Beach High School,1905 Main St
 2017-10-17,CA,Newport Beach,Corona Del Mar High School RACC Mini Fair,Corona Del Mar High School,2101 Eastbluff Dr
@@ -722,7 +798,7 @@ event_date,event_state,event_city,event_name,event_location_name,event_address
 2017-10-18,OH,Cincinnati,Cincinnati Hills Christian Academy,Cincinnati Hills Chrstn Acad,11525 Snider Rd
 2017-10-18,OH,Cincinnati,Indian Hill High School,Indian Hill High School,6845 Drake Rd
 2017-10-18,OH,Loveland,Loveland,Loveland High School,1 Tiger Trl
-2017-10-18,PA,Gibsonia,Pine-Richland High School,Pine-Richland High School,700 Warrendale Rd
+2017-10-18,PA,Gibsonia,,Pine-Richland High School,700 Warrendale Rd
 2017-10-18,VA,Fredericksbrg,VACRAO - King George High School College Fair,Spotsylvania Towne Centre,137 Spotsylvania Mall
 2017-10-19,CA,San Diego,Canyon Crest Academy,Canyon Crest Academy,5951 E Village Center Loop Rd
 2017-10-19,CA,San Diego,Cathedral Catholic College Fair,Cathedral Catholic H S,5555 Del Mar Heights Rd
@@ -730,6 +806,7 @@ event_date,event_state,event_city,event_name,event_location_name,event_address
 2017-10-19,CA,San Diego,Rancho Bernardo High School,Rancho Bernardo High School,13010 Paseo Lucido
 2017-10-19,CA,Solana Beach,Santa Fe Christian School,Santa Fe Christian School,838 Academy Dr
 2017-10-19,GA,Flowery Br,Flowery Branch High School,Flowery Branch High School,6603 Spout Springs Rd
+2017-10-19,GA,Gainesville,Robert W Johnson High School,Robert W Johnson High School,3305 Poplar Springs Rd
 2017-10-19,GA,Guyton,South Effingham High School,South Effingham High School,1220 Noel C Conaway Rd
 2017-10-19,GA,Savannah,Savannah Christian Prep Sch,Savannah Christian Prep Sch,1599 Chatham Pkwy
 2017-10-19,GA,Springfield,Effingham County High School,Effingham County High School,1589 Highway 119 S
@@ -744,23 +821,26 @@ event_date,event_state,event_city,event_name,event_location_name,event_address
 2017-10-20,CA,Carlsbad,La Costa Canyon High School,La Costa Canyon High School,1 Maverick Way
 2017-10-20,CA,Carlsbad,Sage Creek High School Visit,Sage Creek High School,3900 Cannon Rd
 2017-10-20,CA,San Diego,Torrey Pines High School,Torrey Pines High School,3710 Del Mar Heights Rd
-2017-10-20,GA,Atlanta,Druid Hills High School College Fair,Druid Hills High School,1798 Haygood Dr NE
 2017-10-20,OH,Chagrin Falls,Chagrin Falls High School,Chagrin Falls High School,400 E Washington St
 2017-10-20,OH,Hudson,Hudson High School,Hudson High School,2500 Hudson Aurora Rd
 2017-10-20,OH,Kent,Theodore Roosevelt High School,Theodore Roosevelt High School,1400 N Mantua St
 2017-10-20,OH,Solon,Solon High School,Solon High School,33600 Inwood Dr
+2017-10-20,TX,Killeen,,Shoemaker High School Virtual Visit,3302 S Clear Creek Rd
 2017-10-21,CA,San Diego,Explore Solutions' Fall College Showcase,Town and Country San Diego,500 Hotel Cir N
+2017-10-21,GA,Athens,4H Weekend in the Classic City,Tate Student Center,45 Baxter St
 2017-10-22,OH,Cincinnati,NACAC Cincinnati National College Fair,Duke Energy Convention Center,525 Elm St
-2017-10-23,GA,Atlanta,"UCAAN Information Session in Atlanta with UChicago, Purdue, Georgia Tech, and UGA",Ferst Center For The Arts,350 Ferst Drive Northwest
+2017-10-23,GA,Atlanta,Charles R Drew Charter,Charles R Drew Charter School,301 E Lake Blvd SE
+2017-10-23,GA,Atlanta,UCAAN Information Session @ Ferst Center for the Arts,Georgia Institute of Technology (GA Tech),North Ave NW
+2017-10-23,SC,Columbia,,Spring Valley High School,120 Sparkleberry Ln
 2017-10-23,TX,Haslet,2017 Northwest ISD College and Career Fair,V.R. Eaton High School,1350 Eagle Blvd
 2017-10-23,VA,Chesapeake,Chesapeake Public Schools Annual College Fair,Indian River High School,1969 Braves Trl
 2017-10-24,CA,Azusa,Azusa High School/Azusa USD College Fair,Azusa High School,240 N Cerritos Ave
-2017-10-24,FL,Niceville,Okaloosa and Walton County College Night,Northwest Fl St College,100 College Blvd E
+2017-10-24,DE,Wilmington,,Charter School Of Wilmington,100 N Dupont Rd Rm 322
 2017-10-24,GA,Clarkston,Clarkston High School College Fair,Clarkston High School,618 N Indian Creek Dr
 2017-10-24,GA,Lithonia,Arabia Mountain High School,Arabia Mountain High School,6610 Browns Mill Rd
 2017-10-24,GA,Norman Park,PROBE - Colquitt County Fair,Colquitt County High School,105 Darbyshire Rd
+2017-10-24,TX,Coppell,Coppell High School Visit,Coppell High School,185 W Parkway Blvd
 2017-10-24,TX,Lucas,Lovejoy High School Visit,Lovejoy High School,2350 Estates Pkwy
-2017-10-24,TX,Westlake,Westlake Academy College Day,Westlake Academy,2600 J T Ottinger Rd
 2017-10-24,VA,Newport News,Hampton Roads Academy,Hampton Roads Academy,739 Academy Ln
 2017-10-24,VA,Norfolk,Norfolk Collegiate,Norfolk Collegiate School,7336 Granby St
 2017-10-24,VA,Suffolk,Nansemond-suffolk Academy,Nansemond-Suffolk Academy,3373 Pruden Blvd
@@ -768,10 +848,12 @@ event_date,event_state,event_city,event_name,event_location_name,event_address
 2017-10-25,CA,Newport Coast,Sage Hill School,Sage Hill School,20402 Newport Coast Dr
 2017-10-25,CA,San Juan Capo,JSerra Catholic High School,Jserra Catholic High School,26351 Junipero Serra Rd
 2017-10-25,CA,San Juan Capo,San Juan Hills High School,San Juan Hills High School,29211 Stallion Rdg
-2017-10-25,DE,Wilmington,Salesianum School,Salesianum School,1801 N Broom St
+2017-10-25,DE,Wilmington,,Salesianum School,1801 N Broom St
+2017-10-25,GA,Decatur,Towers,Towers High School,3919 Brookcrest Cir
 2017-10-25,GA,Kennesaw,Harrison High School,Harrison High School,4500 Due West Rd NW
 2017-10-25,GA,Marietta,Wheeler High School,Wheeler High School,375 Holt Rd NE
 2017-10-25,GA,Tifton,PROBE - Tift County Fair,Tift County High School,1 Blue Devil Way
+2017-10-25,KY,Louisville,,Louisville Collegiate School,2427 Glenmary Ave
 2017-10-25,MD,Annapolis,Broadneck High School College Fair,Broadneck High School,1265 Green Holly Dr
 2017-10-25,TX,Fort Worth,TACRAO - R.L Paschal High School College Fair,Robert L Paschal High School,3001 Forest Park Blvd
 2017-10-25,TX,Southlake,Carroll ISD College Fair@Carroll Sr. High School,Carroll Senior High School,1501 W Southlake Blvd
@@ -784,7 +866,7 @@ event_date,event_state,event_city,event_name,event_location_name,event_address
 2017-10-26,GA,Madison,Morgan County High School,Morgan County High School,1231 College Dr
 2017-10-26,GA,Perry,Perry High School,Perry High School,1307 North Ave
 2017-10-26,IL,Barrington,Barrington High School,Barrington Community High Schl,616 W Main St
-2017-10-26,IL,Chicago,"UCAAN Information Session in Chicago with UChicago, Purdue, Georgia Tech, and UGA",Mandel Hall,1131 E 57th St
+2017-10-26,IL,Chicago,UCAAN Information Session,University Of Chicago,Mandel Hall\1131 E. 57th Street
 2017-10-26,IL,Winnetka,New Trier Township High School,New Trier High School,385 Winnetka Ave
 2017-10-26,OK,Edmond,Edmond North High School Visit,Edmond North High School,215 W Danforth Rd
 2017-10-26,OK,Oklahoma City,Bishop Mcguinness High School Visit,Bishop Mcguinness High School,801 NW 50th St
@@ -792,30 +874,32 @@ event_date,event_state,event_city,event_name,event_location_name,event_address
 2017-10-26,OK,Oklahoma City,Classen School of Advanced Studies Visit,Classen Sch Advanced Studies,1901 N Ellison Ave
 2017-10-26,OK,Oklahoma City,Heritage Hall Visit,Heritage Hall,1800 NW 122nd St
 2017-10-26,OK,Oklahoma City,Oklahoma School of Science and Math High School Visit,Oklahoma School Of Science And Mathematics,1141 N Lincoln Blvd
-2017-10-26,PA,Kennett Sq,Unionville High School,Unionville High School,750 Unionville Rd
-2017-10-27,GA,Decatur,DeKalb County School? District? College? Fair,Georgia State University- Perimeter College,3251 Panthersville Rd
+2017-10-26,PA,Kennett Sq,,Unionville High School,750 Unionville Rd
+2017-10-27,GA,Dunwoody,DeKalb County School District College Fair,Georgia State University: Perimeter College - Dunwoody Campus,2101 Womack Rd
+2017-10-27,GA,Macon,College & Career Fest 2017: Pathways to Success,Anderson Conference Center,5171 Eisenhower Pkwy
 2017-10-27,IL,Aurora,Waubonsie Valley High School,Waubonsie Valley High School,2590 Ogden Ave
 2017-10-27,IL,Glenview,Glenbrook South High School,Glenbrook South High School,4000 W Lake Ave
+2017-10-27,IL,Lisle,Benet Academy,Benet Academy,2200 Maple Ave
 2017-10-27,IL,Naperville,Naperville North High School,Naperville North High School,899 N Mill St
 2017-10-27,OK,Tulsa,Bishop Kelly Visit,Bishop Kelley High School,3905 S Hudson Ave
 2017-10-27,OK,Tulsa,Booker T Washington High School Visit,Booker T Washington HS,1514 E Zion St
 2017-10-27,OK,Tulsa,Cascia Hall Preparatory School Visit,Cascia Hall Preparatory School,2520 S Yorktown Ave
 2017-10-27,OK,Tulsa,Holland Hall School Visit,Holland Hall School,5666 E 81st St Uppr School
-2017-10-28,GA,Marietta,Cathedral of Turner Chapel AME College Fair,Cathedral of Turner Chapel AME Church,492 N Marietta Pkwy NE
 2017-10-30,CA,Mission Viejo,CUSD 2017 Fall College Fair@Capistrano Valley High School,Capistrano Valley High School,26301 Via Escolar
-2017-10-30,SC,Hilton Head,Hilton Head Preparatory School's College Fair,Hilton Head Preparatory School,8 Fox Grape Rd
 2017-10-30,SC,N Charleston,Charleston County Consolidated Afternoon Program - CACRAO,North Charleston Coliseum & Performing Arts Center,5001 Coliseum Dr
 2017-10-30,SC,N Charleston,Charleston County Consolidated Morning Fair,North Charleston Coliseum & Performing Arts Center,5001 Coliseum Dr
 2017-10-30,TX,Boerne,Boerne ISD TACRAO College Fair,Boerne Samuel V Champion HS,201 Charger Blvd
 2017-10-30,TX,San Antonio,Ronald Reagan High School Visit,Ronald Reagan High School,19000 Ronald Reagan
 2017-10-30,TX,San Antonio,Saint Mary's School Visit,Saint Marys Hall,9401 Starcrest Dr
 2017-10-30,TX,San Antonio,TACRAO - Alamo Heights ISD College Fair,Alamo Heights High School,6900 Broadway St
-2017-10-31,GA,Atlanta,Atlanta International School,Atlanta International School,2890 N Fulton Dr NE
+2017-10-31,GA,Atlanta,,Atlanta International School,2890 N Fulton Dr NE
 2017-10-31,SC,Charleston,James Island Charter High School,James Island Charter HS,1000 Fort Johnson Rd
 2017-10-31,SC,Summerville,CACRAO - Ashley Ridge High School College Fair,Ashley Ridge High School,9800 Delemar Hwy
 2017-10-31,SC,Summerville,Pinewood Preparatory School,Pinewood Preparatory School,1114 Orangeburg Rd
+2017-11-01,CA,Long Beach,Long Beach USD College/Career Exploration Night,Calif St Univ Long Beach,Bh-123 Enrollment Sv\1250 Bellflower Blvd
 2017-11-01,CA,Los Angeles,Notre Dame Academy Visit,Notre Dame Academy,2851 Overland Ave
-2017-11-01,GA,Atlanta,Georgia Cyber Academy,Georgia Cyber Academy,1745 Phoenix Blvd Ste 100
+2017-11-01,GA,Athens,Georgia Scholastic Press Association Fall Conference,Tate Student Center,45 Baxter St
+2017-11-01,GA,Atlanta,,Georgia Cyber Academy,1745 Phoenix Blvd Ste 100
 2017-11-01,GA,Augusta,Academy of Richmond County,Academy Of Richmond County,910 Russell St
 2017-11-01,GA,Augusta,John S Davidson Fine Arts School,John S Davidson Fine Arts School,615 12th St
 2017-11-01,GA,Conyers,Heritage HS Visit,Heritage High School,2400 Granade Rd SW
@@ -825,7 +909,7 @@ event_date,event_state,event_city,event_name,event_location_name,event_address
 2017-11-01,GA,Madison,PROBE Morgan County Fair at Morgan County High School,Morgan County High School,1231 College Dr
 2017-11-01,GA,Martinez,Augusta Preparatory Day School,Augusta Preparatory Day School,285 Flowing Wells Rd
 2017-11-01,MD,Baltimore,Kenwood High School's 10th Annual College Fair,Kenwood High,501 Stemmers Run Rd
-2017-11-01,PA,Berwyn,Conestoga High School,Conestoga High School,200 Irish Rd
+2017-11-01,PA,Berwyn,,Conestoga High School,200 Irish Rd
 2017-11-01,SC,Daniel Island,Bishop England High School,Bishop England High School,363 Seven Farms Dr
 2017-11-01,SC,Mt Pleasant,CACRAO - Wando High School College Fair,Wando High School,1000 Warrior Way
 2017-11-01,SC,Mt Pleasant,Wando High School,Wando High School,1000 Warrior Way
@@ -842,50 +926,50 @@ event_date,event_state,event_city,event_name,event_location_name,event_address
 2017-11-02,GA,Lilburn,Parkview High School Visit,Parkview High School,998 Cole Dr SW
 2017-11-02,GA,Locust Grove,Locust Grove High School Visit,Locust Grove High School,3275 S Ola Rd
 2017-11-02,GA,Snellville,PROBE Gwinnett South Fair at Brookwood High School,Brookwood High School,1255 Dogwood Rd
-2017-11-02,NJ,Summit,Summit High School College Night,Summit High School,125 Kent Place Blvd
-2017-11-02,PA,Reading,Berks Catholic High School,Berks Catholic High School,955 E Wyomissing Blvd
+2017-11-02,PA,Reading,,Berks Catholic High School,955 E Wyomissing Blvd
 2017-11-02,SC,Charleston,Ashley Hall,Ashley Hall,172 Rutledge Ave
 2017-11-02,SC,Charleston,Porter-Gaud School,Porter-Gaud School,300 Albemarle Rd
 2017-11-02,SC,N Charleston,Academic Magnet School,Academic Magnet High School,5109A W Enterprise St
+2017-11-03,GA,Athens,Family Symposium (Test),University of Georgia,102 Tate Student Center
 2017-11-03,GA,Hoschton,Mill Creek High School Visit,Mill Creek High School,4400 Braselton Hwy
 2017-11-03,GA,Suwanee,North Gwinnett High School Visit,North Gwinnett High School,20 Level Creek Rd
-2017-11-03,TX,Allen,Allen High School Counselor Update,Allen High School,300 Rivercrest Blvd
 2017-11-06,CA,Los Angeles,New West Charter School,New West Charter School,1905 Armacost Ave
 2017-11-06,CA,Tustin,Tustin Unified College Fair,Tustin High School,1171 El Camino Real
-2017-11-06,GA,Bellville,Pinewood Christian Academy College Fair,Pinewood Christian Academy,PO Box 7
-2017-11-06,PA,Pittsburgh,Fox Chapel Area High School,Fox Chapel Area High School,611 Field Club Rd
-2017-11-07,DE,Wilmington,The Tatnall School,The Tatnall School,1501 Barley Mill Rd
+2017-11-06,PA,Pittsburgh,,Fox Chapel Area High School,611 Field Club Rd
+2017-11-07,DE,Wilmington,,The Tatnall School,1501 Barley Mill Rd
 2017-11-07,GA,Watkinsville,Oconee County Chamber of Commerce Scholarship Fair,Oconee County Civic Center,2661 Hog Mountain Rd
-2017-11-07,PA,Villanova,Academy Of Notre Dame De Namur,Academy Of Notre Dame De Namur,560 Sproul Rd
+2017-11-07,PA,Villanova,,Academy Of Notre Dame De Namur,560 Sproul Rd
 2017-11-08,CA,Fountain Vly,Fountain Valley High School College Fair,Fountain Valley High School,17816 Bushard St
 2017-11-08,CA,Los Angeles,Marymount High School,Marymount High School,10643 W Sunset Blvd
-2017-11-08,KY,Lexington,Lafayette Senior High School,Lafayette Senior High School,401 Reed Ln
+2017-11-08,GA,Carnesville,Franklin County High School,Franklin County High School,6570 Highway 145
+2017-11-08,GA,Danielsville,Madison County High School (MCHS) College & Career Fair,Madison County High School,600 Madison St
+2017-11-08,KY,Lexington,,Lafayette Senior High School,401 Reed Ln
 2017-11-09,CA,Burbank,John Burroughs High School RACC Mini Fair,John Burroughs High School,1920 W Clark Ave
 2017-11-09,GA,Newnan,Newnan High School,Newnan High School,190 Lagrange St
 2017-11-09,GA,Newnan,Northgate High School,Northgate High School,3220 Fisher Rd
 2017-11-09,GA,Norcross,Norcross High School College Fair,Norcross High School,5300 Spalding Dr
 2017-11-09,GA,Sharpsburg,East Coweta High School,East Coweta High School,400 Mccollum Sharpsburg Rd
-2017-11-09,GA,Sharpsburg,Trinity Christian School,Trinity Christian School,8817 Highway 54
-2017-11-09,SC,Greenville,GREEN Charter School,GREEN Charter School,211 Century Dr
+2017-11-09,PA,Camp Hill,,Camp Hill High School,100 S 24th St
+2017-11-09,SC,Greenville,,GREEN Charter School,211 Century Dr
 2017-11-10,CA,Los Angeles,Brentwood School,Brentwood School,100 S Barrington Pl
+2017-11-10,FL,Tampa,,Tampa Preparatory School,727 W Cass St
 2017-11-10,GA,Douglasville,Douglas County High School,Douglas County High School,8705 Campbellton St
 2017-11-10,GA,Douglasville,New Manchesters High School,New Manchester High School,4925 Highway 92/166
-2017-11-11,MD,Ft Washington,"Alpha Phi Alpha ""Go to High School, Go to College"" College Fair",Southern Regional Technology and Recreation Complex,7007 Bock Rd
+2017-11-10,KY,Louisville,,Sacred Heart Academy,3175 Lexington Rd
 2017-11-12,VA,Norfolk,Norfolk Academy Workshop,Norfolk Academy,1585 Wesleyan Dr
-2017-11-14,AZ,Goodyear,BASIS Goodyear,BASIS Goodyear,15800 W Sherman St
+2017-11-14,AZ,Goodyear,,BASIS Goodyear,15800 W Sherman St
 2017-11-14,GA,Lithonia,"Martin Luther King, Jr. High School College and Career Day",Martin Luther King Jr High Sch,3991 Snapfinger Rd
-2017-11-14,NC,Southern Pines,The O'Neal School,The O'Neal School,3300 Airport Rd
-2017-11-14,PA,Pittsburgh,Mount Lebanon High School,Mount Lebanon High School,155 Cochran Rd
+2017-11-14,NC,Southern Pines,,The O'Neal School,3300 Airport Rd
+2017-11-14,PA,Pittsburgh,,Mount Lebanon High School,155 Cochran Rd
 2017-11-14,TX,Allen,Allen High School College Panel,Allen High School,300 Rivercrest Blvd
 2017-11-15,GA,Marietta,Osborne High School Annual College & Military Fair,Robert L Osborne High School,2451 Favor Rd SW
-2017-11-15,GA,Rincon,Effingham College & Career Academy,Effingham College & Career Academy,2940 Georgia 21
+2017-11-15,GA,Rincon,,Effingham College & Career Academy,2940 Georgia 21
 2017-11-15,GA,Stone Mtn,Redan,Redan High School,5247 Redan Rd
-2017-11-15,PA,Allison Park,Hampton High School,Hampton High School,2929 Mccully Rd
-2017-11-16,NJ,Westfield,Westfield High School College Night,Westfield High School,550 Dorian Rd
-2017-11-17,ID,Boise,Boise High School,Boise High School,1010 W Washington St
-2017-11-21,FL,Jacksonville,Englewood High School,Englewood High School,4412 Barnes Rd
-2017-11-29,GA,Atlanta,Dr. Ronald E. McNair,Mcnair High School,1804 Bouldercrest Rd SE
-2017-12-01,FL,Jacksonville,Robert E. Lee High School,Robert E Lee Senior HS,1200 Mcduff Ave S
-2017-12-02,GA,Brookhaven,NSHSS Holiday Event & College Fair,National Society of High School Scholars,1936 N Druid Hills Rd NE
+2017-11-15,GA,Winder,Winder-Barrow High School College Admissions Panel,Winder-Barrow High School,272 N 5th Ave
+2017-11-17,ID,Boise,,Boise High School,1010 W Washington St
+2017-11-21,FL,Jacksonville,,Englewood High School,4412 Barnes Rd
+2017-12-01,FL,Jacksonville,,Robert E. Lee High School,1200 Mcduff Ave S
+2017-12-02,GA,Athens,Family Symposium,University of Georgia,102 Tate Student Center
+2017-12-08,GA,Athens,Walnut Grove HS Student Steering Board / Leadership Program,University of Georgia J.W. Fanning Institute for Leadership,1240 S Lumpkin St
 2017-12-13,DC,Washington,"Evening with UGA in Washington, DC",University of Georgia Delta Hall,608 Massachusetts Ave NE
 2017-12-13,GA,Atlanta,Dr. Ronald McNair,Mcnair High School,1804 Bouldercrest Rd SE
